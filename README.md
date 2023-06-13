@@ -4,3 +4,5 @@ This is a very simple web application that can be used by personal training clie
 This is by no means an exhaustive list, but it is definitely enough to get started. More exercises may be added in the future.
 
 "Exercises" left out of the dataset include Balance Exercises & Static/Dynamic Stretches
+
+Note: Still in the process of trying to get the app to work properly on Streamlit Cloud
