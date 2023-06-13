@@ -3,662 +3,662 @@
 
 from PIL import Image
 
-sit_ups_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Sit-Ups_1.png')
-sit_ups_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Sit-Ups_2.png')
+sit_ups_1 = Image.open('.\Muscle Group Pictures\Sit-Ups_1.png')
+sit_ups_2 = Image.open('.\Muscle Group Pictures\Sit-Ups_2.png')
 
-ghd_sit_ups_1 = Image.open('C:\Streamlit\Muscle Group Pictures\G.H.D. Sit-Ups_1.png')
-ghd_sit_ups_2 = Image.open('C:\Streamlit\Muscle Group Pictures\G.H.D. Sit-Ups_2.png')
+ghd_sit_ups_1 = Image.open('.\Muscle Group Pictures\G.H.D. Sit-Ups_1.png')
+ghd_sit_ups_2 = Image.open('.\Muscle Group Pictures\G.H.D. Sit-Ups_2.png')
 
-flutter_kicks_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Flutter Kicks_1.png')
-flutter_kicks_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Flutter Kicks_2.png')
+flutter_kicks_1 = Image.open('.\Muscle Group Pictures\Flutter Kicks_1.png')
+flutter_kicks_2 = Image.open('.\Muscle Group Pictures\Flutter Kicks_2.png')
 
-lying_leg_raises_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Lying Leg Raises_1.png')
-lying_leg_raises_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Lying Leg Raises_2.png')
+lying_leg_raises_1 = Image.open('.\Muscle Group Pictures\Lying Leg Raises_1.png')
+lying_leg_raises_2 = Image.open('.\Muscle Group Pictures\Lying Leg Raises_2.png')
 
-in_and_outs_1 = Image.open('C:\Streamlit\Muscle Group Pictures\In & Outs_1.png')
-in_and_outs_2 = Image.open('C:\Streamlit\Muscle Group Pictures\In & Outs_2.png')
+in_and_outs_1 = Image.open('.\Muscle Group Pictures\In & Outs_1.png')
+in_and_outs_2 = Image.open('.\Muscle Group Pictures\In & Outs_2.png')
 
-scissor_kicks_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Scissor Kicks_1.png')
-scissor_kicks_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Scissor Kicks_2.png')
+scissor_kicks_1 = Image.open('.\Muscle Group Pictures\Scissor Kicks_1.png')
+scissor_kicks_2 = Image.open('.\Muscle Group Pictures\Scissor Kicks_2.png')
 
-decline_sit_ups_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Decline Sit-Ups_1.png')
-decline_sit_ups_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Decline Sit-Ups_2.png')
+decline_sit_ups_1 = Image.open('.\Muscle Group Pictures\Decline Sit-Ups_1.png')
+decline_sit_ups_2 = Image.open('.\Muscle Group Pictures\Decline Sit-Ups_2.png')
 
-decline_reverse_crunch_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Decline Reverse Crunch_1.png')
-decline_reverse_crunch_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Decline Reverse Crunch_2.png')
+decline_reverse_crunch_1 = Image.open('.\Muscle Group Pictures\Decline Reverse Crunch_1.png')
+decline_reverse_crunch_2 = Image.open('.\Muscle Group Pictures\Decline Reverse Crunch_2.png')
 
-hanging_knee_raises_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Hanging Knee Raises_1.png')
-hanging_knee_raises_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Hanging Knee Raises_2.png')
+hanging_knee_raises_1 = Image.open('.\Muscle Group Pictures\Hanging Knee Raises_1.png')
+hanging_knee_raises_2 = Image.open('.\Muscle Group Pictures\Hanging Knee Raises_2.png')
 
-hanging_leg_raises_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Hanging Leg Raises_1.png')
-hanging_leg_raises_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Hanging Leg Raises_2.png')
+hanging_leg_raises_1 = Image.open('.\Muscle Group Pictures\Hanging Leg Raises_1.png')
+hanging_leg_raises_2 = Image.open('.\Muscle Group Pictures\Hanging Leg Raises_2.png')
 
-toes_to_bar_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Toes-To-Bar_1.png')
-toes_to_bar_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Toes-To-Bar_2.png')
+toes_to_bar_1 = Image.open('.\Muscle Group Pictures\Toes-To-Bar_1.png')
+toes_to_bar_2 = Image.open('.\Muscle Group Pictures\Toes-To-Bar_2.png')
 
-dead_bugs_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Dead Bugs_1.png')
-dead_bugs_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Dead Bugs_2.png')
+dead_bugs_1 = Image.open('.\Muscle Group Pictures\Dead Bugs_1.png')
+dead_bugs_2 = Image.open('.\Muscle Group Pictures\Dead Bugs_2.png')
 
-lying_knee_tucks_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Lying Knee Tucks_1.png')
-lying_knee_tucks_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Lying Knee Tucks_2.png')
+lying_knee_tucks_1 = Image.open('.\Muscle Group Pictures\Lying Knee Tucks_1.png')
+lying_knee_tucks_2 = Image.open('.\Muscle Group Pictures\Lying Knee Tucks_2.png')
 
-sit_ups_with_ball_toss_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Sit-Ups with Ball Toss_1.png')
-sit_ups_with_ball_toss_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Sit-Ups with Ball Toss_2.png')
+sit_ups_with_ball_toss_1 = Image.open('.\Muscle Group Pictures\Sit-Ups with Ball Toss_1.png')
+sit_ups_with_ball_toss_2 = Image.open('.\Muscle Group Pictures\Sit-Ups with Ball Toss_2.png')
 
-knee_tuck_holds_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Knee Tuck Holds_1.png')
-knee_tuck_holds_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Knee Tuck Holds_2.png')
+knee_tuck_holds_1 = Image.open('.\Muscle Group Pictures\Knee Tuck Holds_1.png')
+knee_tuck_holds_2 = Image.open('.\Muscle Group Pictures\Knee Tuck Holds_2.png')
 
-knee_tuck_planks_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Knee Tuck Planks_1.png')
-knee_tuck_planks_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Knee Tuck Planks_2.png')
+knee_tuck_planks_1 = Image.open('.\Muscle Group Pictures\Knee Tuck Planks_1.png')
+knee_tuck_planks_2 = Image.open('.\Muscle Group Pictures\Knee Tuck Planks_2.png')
 
-planks_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Planks_1.png')
-planks_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Planks_2.png')
+planks_1 = Image.open('.\Muscle Group Pictures\Planks_1.png')
+planks_2 = Image.open('.\Muscle Group Pictures\Planks_2.png')
 
-side_step_planks_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Side Step Planks_1.png')
-side_step_planks_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Side Step Planks_2.png')
+side_step_planks_1 = Image.open('.\Muscle Group Pictures\Side Step Planks_1.png')
+side_step_planks_2 = Image.open('.\Muscle Group Pictures\Side Step Planks_2.png')
 
-lying_leg_circles_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Lying Leg Circles_1.png')
-lying_leg_circles_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Lying Leg Circles_2.png')
+lying_leg_circles_1 = Image.open('.\Muscle Group Pictures\Lying Leg Circles_1.png')
+lying_leg_circles_2 = Image.open('.\Muscle Group Pictures\Lying Leg Circles_2.png')
 
-ab_bicycle_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Ab Bicycles_1.png')
-ab_bicycle_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Ab Bicycles_2.png')
+ab_bicycle_1 = Image.open('.\Muscle Group Pictures\Ab Bicycles_1.png')
+ab_bicycle_2 = Image.open('.\Muscle Group Pictures\Ab Bicycles_2.png')
 
-banana_cannon_ball_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Banana-Cannon Ball_1.png')
-banana_cannon_ball_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Banana-Cannon Ball_2.png')
+banana_cannon_ball_1 = Image.open('.\Muscle Group Pictures\Banana-Cannon Ball_1.png')
+banana_cannon_ball_2 = Image.open('.\Muscle Group Pictures\Banana-Cannon Ball_2.png')
 
-hollow_body_holds_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Hollow Body Holds_1.png')
-hollow_body_holds_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Hollow Body Holds_2.png')
+hollow_body_holds_1 = Image.open('.\Muscle Group Pictures\Hollow Body Holds_1.png')
+hollow_body_holds_2 = Image.open('.\Muscle Group Pictures\Hollow Body Holds_2.png')
 
-ball_slams_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Ball Slams_1.png')
-ball_slams_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Ball Slams_2.png')
+ball_slams_1 = Image.open('.\Muscle Group Pictures\Ball Slams_1.png')
+ball_slams_2 = Image.open('.\Muscle Group Pictures\Ball Slams_2.png')
 
-stir_the_pot_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Stir-The-Pot_1.png')
-stir_the_pot_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Stir-The-Pot_2.png')
+stir_the_pot_1 = Image.open('.\Muscle Group Pictures\Stir-The-Pot_1.png')
+stir_the_pot_2 = Image.open('.\Muscle Group Pictures\Stir-The-Pot_2.png')
 
-sledgehammer_strikes_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Sledgehammer Strikes_1.png')
-sledgehammer_strikes_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Sledgehammer Strikes_2.png')
+sledgehammer_strikes_1 = Image.open('.\Muscle Group Pictures\Sledgehammer Strikes_1.png')
+sledgehammer_strikes_2 = Image.open('.\Muscle Group Pictures\Sledgehammer Strikes_2.png')
 
-roll_outs_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Roll-Outs_1.png')
-roll_outs_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Roll-Outs_2.png')
+roll_outs_1 = Image.open('.\Muscle Group Pictures\Roll-Outs_1.png')
+roll_outs_2 = Image.open('.\Muscle Group Pictures\Roll-Outs_2.png')
 
-kneeling_crunches_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Kneeling Crunches_1.png')
-kneeling_crunches_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Kneeling Crunches_2.png')
+kneeling_crunches_1 = Image.open('.\Muscle Group Pictures\Kneeling Crunches_1.png')
+kneeling_crunches_2 = Image.open('.\Muscle Group Pictures\Kneeling Crunches_2.png')
 
-lateral_band_walks_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Lateral Band Walks_1.png')
-lateral_band_walks_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Lateral Band Walks_2.png')
+lateral_band_walks_1 = Image.open('.\Muscle Group Pictures\Lateral Band Walks_1.png')
+lateral_band_walks_2 = Image.open('.\Muscle Group Pictures\Lateral Band Walks_2.png')
 
-standing_hip_abductions_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Standing Hip Abductions_1.png')
-standing_hip_abductions_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Standing Hip Abductions_2.png')
+standing_hip_abductions_1 = Image.open('.\Muscle Group Pictures\Standing Hip Abductions_1.png')
+standing_hip_abductions_2 = Image.open('.\Muscle Group Pictures\Standing Hip Abductions_2.png')
 
-seated_hip_abductions_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Seated Hip Abductions_1.png')
-seated_hip_abductions_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Seated Hip Abductions_2.png')
+seated_hip_abductions_1 = Image.open('.\Muscle Group Pictures\Seated Hip Abductions_1.png')
+seated_hip_abductions_2 = Image.open('.\Muscle Group Pictures\Seated Hip Abductions_2.png')
 
-side_lying_hip_abductions_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Side Lying Hip Abductions_1.png')
-side_lying_hip_abductions_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Side Lying Hip Abductions_2.png')
+side_lying_hip_abductions_1 = Image.open('.\Muscle Group Pictures\Side Lying Hip Abductions_1.png')
+side_lying_hip_abductions_2 = Image.open('.\Muscle Group Pictures\Side Lying Hip Abductions_2.png')
 
-side_plank_clamshells_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Side Plank Clamshells_1.png')
-side_plank_clamshells_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Side Plank Clamshells_2.png')
+side_plank_clamshells_1 = Image.open('.\Muscle Group Pictures\Side Plank Clamshells_1.png')
+side_plank_clamshells_2 = Image.open('.\Muscle Group Pictures\Side Plank Clamshells_2.png')
 
-copenhagen_planks_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Copenhagen Plank_1.png')
-copenhagen_planks_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Copenhagen Plank_2.png')
+copenhagen_planks_1 = Image.open('.\Muscle Group Pictures\Copenhagen Plank_1.png')
+copenhagen_planks_2 = Image.open('.\Muscle Group Pictures\Copenhagen Plank_2.png')
 
-seated_hip_adductions_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Seated Hip Adductions_1.png')
-seated_hip_adductions_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Seated Hip Adductions_2.png')
+seated_hip_adductions_1 = Image.open('.\Muscle Group Pictures\Seated Hip Adductions_1.png')
+seated_hip_adductions_2 = Image.open('.\Muscle Group Pictures\Seated Hip Adductions_2.png')
 
-standing_hip_adductions_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Standing Hip Adductions_1.png')
-standing_hip_adductions_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Standing Hip Adductions_2.png')
+standing_hip_adductions_1 = Image.open('.\Muscle Group Pictures\Standing Hip Adductions_1.png')
+standing_hip_adductions_2 = Image.open('.\Muscle Group Pictures\Standing Hip Adductions_2.png')
 
-adductor_leg_lifts_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Adductor Leg Lifts_1.png')
-adductor_leg_lifts_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Adductor Leg Lifts_2.png')
+adductor_leg_lifts_1 = Image.open('.\Muscle Group Pictures\Adductor Leg Lifts_1.png')
+adductor_leg_lifts_2 = Image.open('.\Muscle Group Pictures\Adductor Leg Lifts_2.png')
 
-shin_curls_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Shin Curls_1.png')
-shin_curls_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Shin Curls_2.png')
+shin_curls_1 = Image.open('.\Muscle Group Pictures\Shin Curls_1.png')
+shin_curls_2 = Image.open('.\Muscle Group Pictures\Shin Curls_2.png')
 
-heel_walks_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Heel Walks_1.png')
-heel_walks_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Heel Walks_2.png')
+heel_walks_1 = Image.open('.\Muscle Group Pictures\Heel Walks_1.png')
+heel_walks_2 = Image.open('.\Muscle Group Pictures\Heel Walks_2.png')
 
-hammer_curls_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Hammer Curls_1.png')
-hammer_curls_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Hammer Curls_2.png')
+hammer_curls_1 = Image.open('.\Muscle Group Pictures\Hammer Curls_1.png')
+hammer_curls_2 = Image.open('.\Muscle Group Pictures\Hammer Curls_2.png')
 
-seated_incline_bicep_curls_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Seated Incline Bicep Curl_1.png')
-seated_incline_bicep_curls_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Seated Incline Bicep Curl_2.png')
+seated_incline_bicep_curls_1 = Image.open('.\Muscle Group Pictures\Seated Incline Bicep Curl_1.png')
+seated_incline_bicep_curls_2 = Image.open('.\Muscle Group Pictures\Seated Incline Bicep Curl_2.png')
 
-bicep_curl_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Bicep Curls_1.png')
-bicep_curl_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Bicep Curls_2.png')
+bicep_curl_1 = Image.open('.\Muscle Group Pictures\Bicep Curls_1.png')
+bicep_curl_2 = Image.open('.\Muscle Group Pictures\Bicep Curls_2.png')
 
-preacher_curl_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Preacher Curl_1.png')
-preacher_curl_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Preacher Curl_2.png')
+preacher_curl_1 = Image.open('.\Muscle Group Pictures\Preacher Curl_1.png')
+preacher_curl_2 = Image.open('.\Muscle Group Pictures\Preacher Curl_2.png')
 
-rope_climbs_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Rope Climbs_1.png')
-rope_climbs_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Rope Climbs_2.png')
+rope_climbs_1 = Image.open('.\Muscle Group Pictures\Rope Climbs_1.png')
+rope_climbs_2 = Image.open('.\Muscle Group Pictures\Rope Climbs_2.png')
 
-jumping_rope_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Jumping Rope_1.png')
-jumping_rope_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Jumping Rope_2.png')
+jumping_rope_1 = Image.open('.\Muscle Group Pictures\Jumping Rope_1.png')
+jumping_rope_2 = Image.open('.\Muscle Group Pictures\Jumping Rope_2.png')
 
-calf_raises_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Calf Raises_1.png')
-calf_raises_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Calf Raises_2.png')
+calf_raises_1 = Image.open('.\Muscle Group Pictures\Calf Raises_1.png')
+calf_raises_2 = Image.open('.\Muscle Group Pictures\Calf Raises_2.png')
 
-seated_calf_raises_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Seated Calf Raises_1.png')
-seated_calf_raises_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Seated Calf Raises_2.png')
+seated_calf_raises_1 = Image.open('.\Muscle Group Pictures\Seated Calf Raises_1.png')
+seated_calf_raises_2 = Image.open('.\Muscle Group Pictures\Seated Calf Raises_2.png')
 
-single_leg_calf_raises_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Single-Leg Calf Raises_1.png')
-single_leg_calf_raises_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Single-Leg Calf Raises_2.png')
+single_leg_calf_raises_1 = Image.open('.\Muscle Group Pictures\Single-Leg Calf Raises_1.png')
+single_leg_calf_raises_2 = Image.open('.\Muscle Group Pictures\Single-Leg Calf Raises_2.png')
 
-chest_flys_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Chest Flys_1.png')
-chest_flys_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Chest Flys_2.png')
+chest_flys_1 = Image.open('.\Muscle Group Pictures\Chest Flys_1.png')
+chest_flys_2 = Image.open('.\Muscle Group Pictures\Chest Flys_2.png')
 
-incline_chest_flys_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Incline Chest Flys_1.png')
-incline_chest_flys_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Incline Chest Flys_2.png')
+incline_chest_flys_1 = Image.open('.\Muscle Group Pictures\Incline Chest Flys_1.png')
+incline_chest_flys_2 = Image.open('.\Muscle Group Pictures\Incline Chest Flys_2.png')
 
-decline_chest_flys_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Decline Chest Flys_1.png')
-decline_chest_flys_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Decline Chest Flys_2.png')
+decline_chest_flys_1 = Image.open('.\Muscle Group Pictures\Decline Chest Flys_1.png')
+decline_chest_flys_2 = Image.open('.\Muscle Group Pictures\Decline Chest Flys_2.png')
 
-push_ups_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Push-Ups_1.png')
-push_ups_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Push-Ups_2.png')
+push_ups_1 = Image.open('.\Muscle Group Pictures\Push-Ups_1.png')
+push_ups_2 = Image.open('.\Muscle Group Pictures\Push-Ups_2.png')
 
-bench_press_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Bench Press_1.png')
-bench_press_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Bench Press_2.png')
+bench_press_1 = Image.open('.\Muscle Group Pictures\Bench Press_1.png')
+bench_press_2 = Image.open('.\Muscle Group Pictures\Bench Press_2.png')
 
-incline_bench_press_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Incline Bench Press_1.png')
-incline_bench_press_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Incline Bench Press_2.png')
+incline_bench_press_1 = Image.open('.\Muscle Group Pictures\Incline Bench Press_1.png')
+incline_bench_press_2 = Image.open('.\Muscle Group Pictures\Incline Bench Press_2.png')
 
-decline_bench_press_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Decline Bench Press_1.png')
-decline_bench_press_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Decline Bench Press_2.png')
+decline_bench_press_1 = Image.open('.\Muscle Group Pictures\Decline Bench Press_1.png')
+decline_bench_press_2 = Image.open('.\Muscle Group Pictures\Decline Bench Press_2.png')
 
-squeeze_press_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Squeeze Press_1.png')
-squeeze_press_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Squeeze Press_2.png')
+squeeze_press_1 = Image.open('.\Muscle Group Pictures\Squeeze Press_1.png')
+squeeze_press_2 = Image.open('.\Muscle Group Pictures\Squeeze Press_2.png')
 
-floor_press_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Floor Press_1.png')
-floor_press_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Floor Press_2.png')
+floor_press_1 = Image.open('.\Muscle Group Pictures\Floor Press_1.png')
+floor_press_2 = Image.open('.\Muscle Group Pictures\Floor Press_2.png')
 
-kneeling_chest_pass_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Kneeling Chest Pass_1.png')
-kneeling_chest_pass_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Kneeling Chest Pass_2.png')
+kneeling_chest_pass_1 = Image.open('.\Muscle Group Pictures\Kneeling Chest Pass_1.png')
+kneeling_chest_pass_2 = Image.open('.\Muscle Group Pictures\Kneeling Chest Pass_2.png')
 
-farmers_walk_1 = Image.open("C:\Streamlit\Muscle Group Pictures\Farmer's Walk_1.png")
-farmers_walk_2 = Image.open("C:\Streamlit\Muscle Group Pictures\Farmer's Walk_2.png")
+farmers_walk_1 = Image.open(".\Muscle Group Pictures\Farmer's Walk_1.png")
+farmers_walk_2 = Image.open(".\Muscle Group Pictures\Farmer's Walk_2.png")
 
-wrist_roller_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Wrist Roller_1.png')
-wrist_roller_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Wrist Roller_2.png')
+wrist_roller_1 = Image.open('.\Muscle Group Pictures\Wrist Roller_1.png')
+wrist_roller_2 = Image.open('.\Muscle Group Pictures\Wrist Roller_2.png')
 
-standing_hip_extensions_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Standing Hip Extensions_1.png')
-standing_hip_extensions_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Standing Hip Extensions_2.png')
+standing_hip_extensions_1 = Image.open('.\Muscle Group Pictures\Standing Hip Extensions_1.png')
+standing_hip_extensions_2 = Image.open('.\Muscle Group Pictures\Standing Hip Extensions_2.png')
 
-donkey_kicks_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Donkey Kicks_1.png')
-donkey_kicks_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Donkey Kicks_2.png')
+donkey_kicks_1 = Image.open('.\Muscle Group Pictures\Donkey Kicks_1.png')
+donkey_kicks_2 = Image.open('.\Muscle Group Pictures\Donkey Kicks_2.png')
 
-hip_thrusters_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Hip Thrusters_1.png')
-hip_thrusters_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Hip Thrusters_2.png')
+hip_thrusters_1 = Image.open('.\Muscle Group Pictures\Hip Thrusters_1.png')
+hip_thrusters_2 = Image.open('.\Muscle Group Pictures\Hip Thrusters_2.png')
 
-glute_drive_machine_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Glute Drive Machine_1.png')
-glute_drive_machine_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Glute Drive Machine_2.png')
+glute_drive_machine_1 = Image.open('.\Muscle Group Pictures\Glute Drive Machine_1.png')
+glute_drive_machine_2 = Image.open('.\Muscle Group Pictures\Glute Drive Machine_2.png')
 
-glute_bridges_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Glute Bridges_1.png')
-glute_bridges_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Glute Bridges_2.png')
+glute_bridges_1 = Image.open('.\Muscle Group Pictures\Glute Bridges_1.png')
+glute_bridges_2 = Image.open('.\Muscle Group Pictures\Glute Bridges_2.png')
 
-single_leg_hip_thrusters_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Single-Leg Hip Thrusters_1.png')
-single_leg_hip_thrusters_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Single-Leg Hip Thrusters_2.png')
+single_leg_hip_thrusters_1 = Image.open('.\Muscle Group Pictures\Single-Leg Hip Thrusters_1.png')
+single_leg_hip_thrusters_2 = Image.open('.\Muscle Group Pictures\Single-Leg Hip Thrusters_2.png')
 
-single_leg_glute_bridges_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Single-Leg Glute Bridges_1.png')
-single_leg_glute_bridges_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Single-Leg Glute Bridges_2.png')
+single_leg_glute_bridges_1 = Image.open('.\Muscle Group Pictures\Single-Leg Glute Bridges_1.png')
+single_leg_glute_bridges_2 = Image.open('.\Muscle Group Pictures\Single-Leg Glute Bridges_2.png')
 
-pull_throughs_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Pull Throughs_1.png')
-pull_throughs_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Pull Throughs_2.png')
+pull_throughs_1 = Image.open('.\Muscle Group Pictures\Pull Throughs_1.png')
+pull_throughs_2 = Image.open('.\Muscle Group Pictures\Pull Throughs_2.png')
 
-shin_hops_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Shin Hops_1.png')
-shin_hops_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Shin Hops_2.png')
+shin_hops_1 = Image.open('.\Muscle Group Pictures\Shin Hops_1.png')
+shin_hops_2 = Image.open('.\Muscle Group Pictures\Shin Hops_2.png')
 
-glute_ham_raises_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Glute Ham Raises_1.png')
-glute_ham_raises_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Glute Ham Raises_2.png')
+glute_ham_raises_1 = Image.open('.\Muscle Group Pictures\Glute Ham Raises_1.png')
+glute_ham_raises_2 = Image.open('.\Muscle Group Pictures\Glute Ham Raises_2.png')
 
-standing_leg_curls_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Standing Leg Curls_1.png')
-standing_leg_curls_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Standing Leg Curls_2.png')
+standing_leg_curls_1 = Image.open('.\Muscle Group Pictures\Standing Leg Curls_1.png')
+standing_leg_curls_2 = Image.open('.\Muscle Group Pictures\Standing Leg Curls_2.png')
 
-nordic_ham_raises_1 = Image.open(r'C:/Streamlit/Muscle Group Pictures/Nordic Ham Raises_1.png')
-nordic_ham_raises_2 = Image.open(r'C:/Streamlit/Muscle Group Pictures/Nordic Ham Raises_2.png')
+nordic_ham_raises_1 = Image.open(r'./Muscle Group Pictures/Nordic Ham Raises_1.png')
+nordic_ham_raises_2 = Image.open(r'./Muscle Group Pictures/Nordic Ham Raises_2.png')
 
-kettlebell_swing_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Kettlebell Swings_1.png')
-kettlebell_swing_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Kettlebell Swings_2.png')
+kettlebell_swing_1 = Image.open('.\Muscle Group Pictures\Kettlebell Swings_1.png')
+kettlebell_swing_2 = Image.open('.\Muscle Group Pictures\Kettlebell Swings_2.png')
 
-romanian_deadlift_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Romanian Dead Lift_1.png')
-romanian_deadlift_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Romanian Dead Lift_2.png')
+romanian_deadlift_1 = Image.open('.\Muscle Group Pictures\Romanian Dead Lift_1.png')
+romanian_deadlift_2 = Image.open('.\Muscle Group Pictures\Romanian Dead Lift_2.png')
 
-single_leg_romainian_deadlift_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Single-Leg Romanian Dead Lift_1.png')
-single_leg_romainian_deadlift_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Single-Leg Romanian Dead Lift_2.png')
+single_leg_romainian_deadlift_1 = Image.open('.\Muscle Group Pictures\Single-Leg Romanian Dead Lift_1.png')
+single_leg_romainian_deadlift_2 = Image.open('.\Muscle Group Pictures\Single-Leg Romanian Dead Lift_2.png')
 
-good_mornings_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Good Mornings_1.png')
-good_mornings_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Good Mornings_2.png')
+good_mornings_1 = Image.open('.\Muscle Group Pictures\Good Mornings_1.png')
+good_mornings_2 = Image.open('.\Muscle Group Pictures\Good Mornings_2.png')
 
-air_runner_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Air Runner_1.png')
-air_runner_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Air Runner_2.png')
+air_runner_1 = Image.open('.\Muscle Group Pictures\Air Runner_1.png')
+air_runner_2 = Image.open('.\Muscle Group Pictures\Air Runner_2.png')
 
-snatch_high_pull_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Snatch High Pull_1.png')
-snatch_high_pull_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Snatch High Pull_2.png')
+snatch_high_pull_1 = Image.open('.\Muscle Group Pictures\Snatch High Pull_1.png')
+snatch_high_pull_2 = Image.open('.\Muscle Group Pictures\Snatch High Pull_2.png')
 
-clean_high_pull_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Clean High Pull_1.png')
-clean_high_pull_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Clean High Pull_2.png')
+clean_high_pull_1 = Image.open('.\Muscle Group Pictures\Clean High Pull_1.png')
+clean_high_pull_2 = Image.open('.\Muscle Group Pictures\Clean High Pull_2.png')
 
-snatch_pull_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Snatch Pull_1.png')
-snatch_pull_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Snatch Pull_2.png')
+snatch_pull_1 = Image.open('.\Muscle Group Pictures\Snatch Pull_1.png')
+snatch_pull_2 = Image.open('.\Muscle Group Pictures\Snatch Pull_2.png')
 
-clean_pull_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Clean Pull_1.png')
-clean_pull_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Clean Pull_2.png')
+clean_pull_1 = Image.open('.\Muscle Group Pictures\Clean Pull_1.png')
+clean_pull_2 = Image.open('.\Muscle Group Pictures\Clean Pull_2.png')
 
-lying_leg_curls_floor_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Lying Leg Curls (Floor)_1.png')
-lying_leg_curls_floor_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Lying Leg Curls (Floor)_2.png')
+lying_leg_curls_floor_1 = Image.open('.\Muscle Group Pictures\Lying Leg Curls (Floor)_1.png')
+lying_leg_curls_floor_2 = Image.open('.\Muscle Group Pictures\Lying Leg Curls (Floor)_2.png')
 
-lying_leg_curls_machine_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Lying Leg Curls (Machine)_1.png')
-lying_leg_curls_machine_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Lying Leg Curls (Machine)_2.png')
+lying_leg_curls_machine_1 = Image.open('.\Muscle Group Pictures\Lying Leg Curls (Machine)_1.png')
+lying_leg_curls_machine_2 = Image.open('.\Muscle Group Pictures\Lying Leg Curls (Machine)_2.png')
 
-banded_marches_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Banded Marches_1.png')
-banded_marches_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Banded Marches_2.png')
+banded_marches_1 = Image.open('.\Muscle Group Pictures\Banded Marches_1.png')
+banded_marches_2 = Image.open('.\Muscle Group Pictures\Banded Marches_2.png')
 
-chin_ups_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Chin-Ups_1.png')
-chin_ups_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Chin-Ups_2.png')
+chin_ups_1 = Image.open('.\Muscle Group Pictures\Chin-Ups_1.png')
+chin_ups_2 = Image.open('.\Muscle Group Pictures\Chin-Ups_2.png')
 
-chin_ups_assisted_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Chin-Ups (Assisted)_1.png')
-chin_ups_assisted_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Chin-Ups (Assisted)_2.png')
+chin_ups_assisted_1 = Image.open('.\Muscle Group Pictures\Chin-Ups (Assisted)_1.png')
+chin_ups_assisted_2 = Image.open('.\Muscle Group Pictures\Chin-Ups (Assisted)_2.png')
 
-pull_ups_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Pull-Ups_1.png')
-pull_ups_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Pull-Ups_2.png')
+pull_ups_1 = Image.open('.\Muscle Group Pictures\Pull-Ups_1.png')
+pull_ups_2 = Image.open('.\Muscle Group Pictures\Pull-Ups_2.png')
 
-pull_ups_assisted_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Pull-Ups (Assisted)_1.png')
-pull_ups_assisted_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Pull-Ups (Assisted)_2.png')
+pull_ups_assisted_1 = Image.open('.\Muscle Group Pictures\Pull-Ups (Assisted)_1.png')
+pull_ups_assisted_2 = Image.open('.\Muscle Group Pictures\Pull-Ups (Assisted)_2.png')
 
-lat_pulldown_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Lat Pulldown_1.png')
-lat_pulldown_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Lat Pulldown_2.png')
+lat_pulldown_1 = Image.open('.\Muscle Group Pictures\Lat Pulldown_1.png')
+lat_pulldown_2 = Image.open('.\Muscle Group Pictures\Lat Pulldown_2.png')
 
-neutral_grip_lat_pulldown_1 = Image.open(r'C:/Streamlit/Muscle Group Pictures/Neutral-Grip Lat Pulldown_1.png')
-neutral_grip_lat_pulldown_2 = Image.open(r'C:/Streamlit/Muscle Group Pictures/Neutral-Grip Lat Pulldown_2.png')
+neutral_grip_lat_pulldown_1 = Image.open(r'./Muscle Group Pictures/Neutral-Grip Lat Pulldown_1.png')
+neutral_grip_lat_pulldown_2 = Image.open(r'./Muscle Group Pictures/Neutral-Grip Lat Pulldown_2.png')
 
-single_arm_lat_pulldown_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Single-Arm Lat Pulldown_1.png')
-single_arm_lat_pulldown_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Single-Arm Lat Pulldown_2.png')
+single_arm_lat_pulldown_1 = Image.open('.\Muscle Group Pictures\Single-Arm Lat Pulldown_1.png')
+single_arm_lat_pulldown_2 = Image.open('.\Muscle Group Pictures\Single-Arm Lat Pulldown_2.png')
 
-chin_up_grip_lat_pulldown_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Chin-Up Grip Lat Pulldown_1.png')
-chin_up_grip_lat_pulldown_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Chin-Up Grip Lat Pulldown_2.png')
+chin_up_grip_lat_pulldown_1 = Image.open('.\Muscle Group Pictures\Chin-Up Grip Lat Pulldown_1.png')
+chin_up_grip_lat_pulldown_2 = Image.open('.\Muscle Group Pictures\Chin-Up Grip Lat Pulldown_2.png')
 
-pull_overs_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Pull-Overs_1.png')
-pull_overs_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Pull-Overs_2.png')
+pull_overs_1 = Image.open('.\Muscle Group Pictures\Pull-Overs_1.png')
+pull_overs_2 = Image.open('.\Muscle Group Pictures\Pull-Overs_2.png')
 
-ski_erg_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Ski Erg_1.png')
-ski_erg_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Ski Erg_2.png')
+ski_erg_1 = Image.open('.\Muscle Group Pictures\Ski Erg_1.png')
+ski_erg_2 = Image.open('.\Muscle Group Pictures\Ski Erg_2.png')
 
-straight_arm_lat_pulldown_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Straight-Arm Lat Pulldown_1.png')
-straight_arm_lat_pulldown_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Straight-Arm Lat Pulldown_2.png')
+straight_arm_lat_pulldown_1 = Image.open('.\Muscle Group Pictures\Straight-Arm Lat Pulldown_1.png')
+straight_arm_lat_pulldown_2 = Image.open('.\Muscle Group Pictures\Straight-Arm Lat Pulldown_2.png')
 
-back_extensions_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Back Extensions_1.png')
-back_extensions_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Back Extensions_2.png')
+back_extensions_1 = Image.open('.\Muscle Group Pictures\Back Extensions_1.png')
+back_extensions_2 = Image.open('.\Muscle Group Pictures\Back Extensions_2.png')
 
-reverse_hypers_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Reverse Hypers_1.png')
-reverse_hypers_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Reverse Hypers_2.png')
+reverse_hypers_1 = Image.open('.\Muscle Group Pictures\Reverse Hypers_1.png')
+reverse_hypers_2 = Image.open('.\Muscle Group Pictures\Reverse Hypers_2.png')
 
-ground_to_shoulder_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Ground To Shoulder_1.png')
-ground_to_shoulder_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Ground To Shoulder_2.png')
+ground_to_shoulder_1 = Image.open('.\Muscle Group Pictures\Ground To Shoulder_1.png')
+ground_to_shoulder_2 = Image.open('.\Muscle Group Pictures\Ground To Shoulder_2.png')
 
-bird_dog_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Bird Dog_1.png')
-bird_dog_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Bird Dog_2.png')
+bird_dog_1 = Image.open('.\Muscle Group Pictures\Bird Dog_1.png')
+bird_dog_2 = Image.open('.\Muscle Group Pictures\Bird Dog_2.png')
 
-dead_lift_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Dead Lift_1.png')
-dead_lift_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Dead Lift_2.png')
+dead_lift_1 = Image.open('.\Muscle Group Pictures\Dead Lift_1.png')
+dead_lift_2 = Image.open('.\Muscle Group Pictures\Dead Lift_2.png')
 
-supermans_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Supermans_1.png')
-supermans_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Supermans_2.png')
+supermans_1 = Image.open('.\Muscle Group Pictures\Supermans_1.png')
+supermans_2 = Image.open('.\Muscle Group Pictures\Supermans_2.png')
 
-lying_heel_touches_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Lying Heel Touches_1.png')
-lying_heel_touches_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Lying Heel Touches_2.png')
+lying_heel_touches_1 = Image.open('.\Muscle Group Pictures\Lying Heel Touches_1.png')
+lying_heel_touches_2 = Image.open('.\Muscle Group Pictures\Lying Heel Touches_2.png')
 
-windshield_wipers_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Windshield Wipers_1.png')
-windshield_wipers_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Windshield Wipers_2.png')
+windshield_wipers_1 = Image.open('.\Muscle Group Pictures\Windshield Wipers_1.png')
+windshield_wipers_2 = Image.open('.\Muscle Group Pictures\Windshield Wipers_2.png')
 
-hanging_oblique_knee_raises_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Hanging Oblique Knee Raises_1.png')
-hanging_oblique_knee_raises_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Hanging Oblique Knee Raises_2.png')
+hanging_oblique_knee_raises_1 = Image.open('.\Muscle Group Pictures\Hanging Oblique Knee Raises_1.png')
+hanging_oblique_knee_raises_2 = Image.open('.\Muscle Group Pictures\Hanging Oblique Knee Raises_2.png')
 
-pallof_press_holds_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Pallof Press Holds_1.png')
-pallof_press_holds_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Pallof Press Holds_2.png')
+pallof_press_holds_1 = Image.open('.\Muscle Group Pictures\Pallof Press Holds_1.png')
+pallof_press_holds_2 = Image.open('.\Muscle Group Pictures\Pallof Press Holds_2.png')
 
-pallof_press_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Pallof Press_1.png')
-pallof_press_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Pallof Press_2.png')
+pallof_press_1 = Image.open('.\Muscle Group Pictures\Pallof Press_1.png')
+pallof_press_2 = Image.open('.\Muscle Group Pictures\Pallof Press_2.png')
 
-russian_twists_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Russian Twists_1.png')
-russian_twists_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Russian Twists_2.png')
+russian_twists_1 = Image.open('.\Muscle Group Pictures\Russian Twists_1.png')
+russian_twists_2 = Image.open('.\Muscle Group Pictures\Russian Twists_2.png')
 
-hanging_winshield_wipers_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Hanging Windshield Wipers_1.png')
-hanging_winshield_wipers_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Hanging Windshield Wipers_2.png')
+hanging_winshield_wipers_1 = Image.open('.\Muscle Group Pictures\Hanging Windshield Wipers_1.png')
+hanging_winshield_wipers_2 = Image.open('.\Muscle Group Pictures\Hanging Windshield Wipers_2.png')
 
-around_the_worlds_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Around-The-Worlds_1.png')
-around_the_worlds_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Around-The-Worlds_2.png')
+around_the_worlds_1 = Image.open('.\Muscle Group Pictures\Around-The-Worlds_1.png')
+around_the_worlds_2 = Image.open('.\Muscle Group Pictures\Around-The-Worlds_2.png')
 
-side_bends_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Side Bends_1.png')
-side_bends_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Side Bends_2.png')
+side_bends_1 = Image.open('.\Muscle Group Pictures\Side Bends_1.png')
+side_bends_2 = Image.open('.\Muscle Group Pictures\Side Bends_2.png')
 
-single_arm_farmers_walk_1 = Image.open("C:\Streamlit\Muscle Group Pictures\Single-Arm Farmer's Walk_1.png")
-single_arm_farmers_walk_2 = Image.open("C:\Streamlit\Muscle Group Pictures\Single-Arm Farmer's Walk_2.png")
+single_arm_farmers_walk_1 = Image.open(".\Muscle Group Pictures\Single-Arm Farmer's Walk_1.png")
+single_arm_farmers_walk_2 = Image.open(".\Muscle Group Pictures\Single-Arm Farmer's Walk_2.png")
 
-side_planks_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Side Planks_1.png')
-side_planks_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Side Planks_2.png')
+side_planks_1 = Image.open('.\Muscle Group Pictures\Side Planks_1.png')
+side_planks_2 = Image.open('.\Muscle Group Pictures\Side Planks_2.png')
 
-side_plank_pulses_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Side Plank Pulses_1.png')
-side_plank_pulses_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Side Plank Pulses_2.png')
+side_plank_pulses_1 = Image.open('.\Muscle Group Pictures\Side Plank Pulses_1.png')
+side_plank_pulses_2 = Image.open('.\Muscle Group Pictures\Side Plank Pulses_2.png')
 
-lateral_ball_throws_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Lateral Ball Throws_1.png')
-lateral_ball_throws_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Lateral Ball Throws_2.png')
+lateral_ball_throws_1 = Image.open('.\Muscle Group Pictures\Lateral Ball Throws_1.png')
+lateral_ball_throws_2 = Image.open('.\Muscle Group Pictures\Lateral Ball Throws_2.png')
 
-lateral_ball_slams_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Lateral Ball Slams_1.png')
-lateral_ball_slams_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Lateral Ball Slams_2.png')
+lateral_ball_slams_1 = Image.open('.\Muscle Group Pictures\Lateral Ball Slams_1.png')
+lateral_ball_slams_2 = Image.open('.\Muscle Group Pictures\Lateral Ball Slams_2.png')
 
-standing_high_to_low_twist_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Standing High-To-Low Twist_1.png')
-standing_high_to_low_twist_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Standing High-To-Low Twist_2.png')
+standing_high_to_low_twist_1 = Image.open('.\Muscle Group Pictures\Standing High-To-Low Twist_1.png')
+standing_high_to_low_twist_2 = Image.open('.\Muscle Group Pictures\Standing High-To-Low Twist_2.png')
 
-shoulder_taps_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Shoulder Taps_1.png')
-shoulder_taps_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Shoulder Taps_2.png')
+shoulder_taps_1 = Image.open('.\Muscle Group Pictures\Shoulder Taps_1.png')
+shoulder_taps_2 = Image.open('.\Muscle Group Pictures\Shoulder Taps_2.png')
 
-contact_twists_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Contact Twists_1.png')
-contact_twists_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Contact Twists_2.png')
+contact_twists_1 = Image.open('.\Muscle Group Pictures\Contact Twists_1.png')
+contact_twists_2 = Image.open('.\Muscle Group Pictures\Contact Twists_2.png')
 
-box_jumps_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Box Jumps_1.png')
-box_jumps_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Box Jumps_2.png')
+box_jumps_1 = Image.open('.\Muscle Group Pictures\Box Jumps_1.png')
+box_jumps_2 = Image.open('.\Muscle Group Pictures\Box Jumps_2.png')
 
-depth_jumps_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Depth Jumps_1.png')
-depth_jumps_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Depth Jumps_2.png')
+depth_jumps_1 = Image.open('.\Muscle Group Pictures\Depth Jumps_1.png')
+depth_jumps_2 = Image.open('.\Muscle Group Pictures\Depth Jumps_2.png')
 
-depth_drops_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Depth Drops_1.png')
-depth_drops_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Depth Drops_2.png')
+depth_drops_1 = Image.open('.\Muscle Group Pictures\Depth Drops_1.png')
+depth_drops_2 = Image.open('.\Muscle Group Pictures\Depth Drops_2.png')
 
-hurdle_jumps_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Hurdle Jumps_1.png')
-hurdle_jumps_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Hurdle Jumps_2.png')
+hurdle_jumps_1 = Image.open('.\Muscle Group Pictures\Hurdle Jumps_1.png')
+hurdle_jumps_2 = Image.open('.\Muscle Group Pictures\Hurdle Jumps_2.png')
 
-broad_jumps_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Broad Jumps_1.png')
-broad_jumps_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Broad Jumps_2.png')
+broad_jumps_1 = Image.open('.\Muscle Group Pictures\Broad Jumps_1.png')
+broad_jumps_2 = Image.open('.\Muscle Group Pictures\Broad Jumps_2.png')
 
-explosive_step_ups_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Explosive Step-Ups_1.png')
-explosive_step_ups_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Explosive Step-Ups_2.png')
+explosive_step_ups_1 = Image.open('.\Muscle Group Pictures\Explosive Step-Ups_1.png')
+explosive_step_ups_2 = Image.open('.\Muscle Group Pictures\Explosive Step-Ups_2.png')
 
-lateral_hurdle_jumps_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Lateral Hurdle Jumps_1.png')
-lateral_hurdle_jumps_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Lateral Hurdle Jumps_2.png')
+lateral_hurdle_jumps_1 = Image.open('.\Muscle Group Pictures\Lateral Hurdle Jumps_1.png')
+lateral_hurdle_jumps_2 = Image.open('.\Muscle Group Pictures\Lateral Hurdle Jumps_2.png')
 
-bike_erg_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Bike Erg_1.png')
-bike_erg_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Bike Erg_2.png')
+bike_erg_1 = Image.open('.\Muscle Group Pictures\Bike Erg_1.png')
+bike_erg_2 = Image.open('.\Muscle Group Pictures\Bike Erg_2.png')
 
-stairmaster_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Stairmaster_1.png')
-stairmaster_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Stairmaster_2.png')
+stairmaster_1 = Image.open('.\Muscle Group Pictures\Stairmaster_1.png')
+stairmaster_2 = Image.open('.\Muscle Group Pictures\Stairmaster_2.png')
 
-speed_skater_jumps_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Speed Skater Jumps_1.png')
-speed_skater_jumps_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Speed Skater Jumps_2.png')
+speed_skater_jumps_1 = Image.open('.\Muscle Group Pictures\Speed Skater Jumps_1.png')
+speed_skater_jumps_2 = Image.open('.\Muscle Group Pictures\Speed Skater Jumps_2.png')
 
-sled_push_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Sled Push_1.png')
-sled_push_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Sled Push_2.png')
+sled_push_1 = Image.open('.\Muscle Group Pictures\Sled Push_1.png')
+sled_push_2 = Image.open('.\Muscle Group Pictures\Sled Push_2.png')
 
-plyo_lunges_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Plyo Lunges_1.png')
-plyo_lunges_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Plyo Lunges_2.png')
+plyo_lunges_1 = Image.open('.\Muscle Group Pictures\Plyo Lunges_1.png')
+plyo_lunges_2 = Image.open('.\Muscle Group Pictures\Plyo Lunges_2.png')
 
-reverse_sled_drag_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Reverse Sled Drag_1.png')
-reverse_sled_drag_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Reverse Sled Drag_2.png')
+reverse_sled_drag_1 = Image.open('.\Muscle Group Pictures\Reverse Sled Drag_1.png')
+reverse_sled_drag_2 = Image.open('.\Muscle Group Pictures\Reverse Sled Drag_2.png')
 
-lateral_lunges_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Lateral Lunges_1.png')
-lateral_lunges_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Lateral Lunges_2.png')
+lateral_lunges_1 = Image.open('.\Muscle Group Pictures\Lateral Lunges_1.png')
+lateral_lunges_2 = Image.open('.\Muscle Group Pictures\Lateral Lunges_2.png')
 
-lateral_sled_drag_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Lateral Sled Drag_1.png')
-lateral_sled_drag_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Lateral Sled Drag_2.png')
+lateral_sled_drag_1 = Image.open('.\Muscle Group Pictures\Lateral Sled Drag_1.png')
+lateral_sled_drag_2 = Image.open('.\Muscle Group Pictures\Lateral Sled Drag_2.png')
 
-leg_press_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Leg Press_1.png')
-leg_press_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Leg Press_2.png')
+leg_press_1 = Image.open('.\Muscle Group Pictures\Leg Press_1.png')
+leg_press_2 = Image.open('.\Muscle Group Pictures\Leg Press_2.png')
 
-single_leg_leg_press_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Single-Leg Leg Press_1.png')
-single_leg_leg_press_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Single-Leg Leg Press_2.png')
+single_leg_leg_press_1 = Image.open('.\Muscle Group Pictures\Single-Leg Leg Press_1.png')
+single_leg_leg_press_2 = Image.open('.\Muscle Group Pictures\Single-Leg Leg Press_2.png')
 
-reverse_lunges_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Reverse Lunges_1.png')
-reverse_lunges_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Reverse Lunges_2.png')
+reverse_lunges_1 = Image.open('.\Muscle Group Pictures\Reverse Lunges_1.png')
+reverse_lunges_2 = Image.open('.\Muscle Group Pictures\Reverse Lunges_2.png')
 
-box_squats_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Box Squats_1.png')
-box_squats_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Box Squats_2.png')
+box_squats_1 = Image.open('.\Muscle Group Pictures\Box Squats_1.png')
+box_squats_2 = Image.open('.\Muscle Group Pictures\Box Squats_2.png')
 
-bulgarian_split_squats_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Bulgarian Split Squats_1.png')
-bulgarian_split_squats_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Bulgarian Split Squats_2.png')
+bulgarian_split_squats_1 = Image.open('.\Muscle Group Pictures\Bulgarian Split Squats_1.png')
+bulgarian_split_squats_2 = Image.open('.\Muscle Group Pictures\Bulgarian Split Squats_2.png')
 
-foot_elevated_reverse_lunges_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Foot Elevated Reverse Lunges_1.png')
-foot_elevated_reverse_lunges_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Foot Elevated Reverse Lunges_2.png')
+foot_elevated_reverse_lunges_1 = Image.open('.\Muscle Group Pictures\Foot Elevated Reverse Lunges_1.png')
+foot_elevated_reverse_lunges_2 = Image.open('.\Muscle Group Pictures\Foot Elevated Reverse Lunges_2.png')
 
-single_leg_box_squats_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Single-Leg Box Squats_1.png')
-single_leg_box_squats_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Single-Leg Box Squats_2.png')
+single_leg_box_squats_1 = Image.open('.\Muscle Group Pictures\Single-Leg Box Squats_1.png')
+single_leg_box_squats_2 = Image.open('.\Muscle Group Pictures\Single-Leg Box Squats_2.png')
 
-pistol_squats_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Pistol Squats_1.png')
-pistol_squats_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Pistol Squats_2.png')
+pistol_squats_1 = Image.open('.\Muscle Group Pictures\Pistol Squats_1.png')
+pistol_squats_2 = Image.open('.\Muscle Group Pictures\Pistol Squats_2.png')
 
-walking_lunges_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Walking Lunges_1.png')
-walking_lunges_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Walking Lunges_2.png')
+walking_lunges_1 = Image.open('.\Muscle Group Pictures\Walking Lunges_1.png')
+walking_lunges_2 = Image.open('.\Muscle Group Pictures\Walking Lunges_2.png')
 
-step_ups_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Step-Ups_1.png')
-step_ups_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Step-Ups_2.png')
+step_ups_1 = Image.open('.\Muscle Group Pictures\Step-Ups_1.png')
+step_ups_2 = Image.open('.\Muscle Group Pictures\Step-Ups_2.png')
 
-belt_squat_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Belt Squat_1.png')
-belt_squat_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Belt Squat_2.png')
+belt_squat_1 = Image.open('.\Muscle Group Pictures\Belt Squat_1.png')
+belt_squat_2 = Image.open('.\Muscle Group Pictures\Belt Squat_2.png')
 
-hack_squat_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Hack Squat_1.png')
-hack_squat_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Hack Squat_2.png')
+hack_squat_1 = Image.open('.\Muscle Group Pictures\Hack Squat_1.png')
+hack_squat_2 = Image.open('.\Muscle Group Pictures\Hack Squat_2.png')
 
-front_rack_lunges_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Front Rack Lunges_1.png')
-front_rack_lunges_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Front Rack Lunges_2.png')
+front_rack_lunges_1 = Image.open('.\Muscle Group Pictures\Front Rack Lunges_1.png')
+front_rack_lunges_2 = Image.open('.\Muscle Group Pictures\Front Rack Lunges_2.png')
 
-front_squats_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Front Squats_1.png')
-front_squats_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Front Squats_2.png')
+front_squats_1 = Image.open('.\Muscle Group Pictures\Front Squats_1.png')
+front_squats_2 = Image.open('.\Muscle Group Pictures\Front Squats_2.png')
 
-back_squats_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Back Squats_1.png')
-back_squats_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Back Squats_2.png')
+back_squats_1 = Image.open('.\Muscle Group Pictures\Back Squats_1.png')
+back_squats_2 = Image.open('.\Muscle Group Pictures\Back Squats_2.png')
 
-zercher_squats_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Zercher Squats_1.png')
-zercher_squats_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Zercher Squats_2.png')
+zercher_squats_1 = Image.open('.\Muscle Group Pictures\Zercher Squats_1.png')
+zercher_squats_2 = Image.open('.\Muscle Group Pictures\Zercher Squats_2.png')
 
-goblet_squats_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Goblet Squats_1.png')
-goblet_squats_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Goblet Squats_2.png')
+goblet_squats_1 = Image.open('.\Muscle Group Pictures\Goblet Squats_1.png')
+goblet_squats_2 = Image.open('.\Muscle Group Pictures\Goblet Squats_2.png')
 
-overhead_walking_lunges_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Overhead Walking Lunges_1.png')
-overhead_walking_lunges_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Overhead Walking Lunges_2.png')
+overhead_walking_lunges_1 = Image.open('.\Muscle Group Pictures\Overhead Walking Lunges_1.png')
+overhead_walking_lunges_2 = Image.open('.\Muscle Group Pictures\Overhead Walking Lunges_2.png')
 
-landmine_squats_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Landmine Squats_1.png')
-landmine_squats_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Landmine Squats_2.png')
+landmine_squats_1 = Image.open('.\Muscle Group Pictures\Landmine Squats_1.png')
+landmine_squats_2 = Image.open('.\Muscle Group Pictures\Landmine Squats_2.png')
 
-sled_drag_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Sled Drag_1.png')
-sled_drag_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Sled Drag_2.png')
+sled_drag_1 = Image.open('.\Muscle Group Pictures\Sled Drag_1.png')
+sled_drag_2 = Image.open('.\Muscle Group Pictures\Sled Drag_2.png')
 
-treadmill_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Treadmill_1.png')
-treadmill_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Treadmill_2.png')
+treadmill_1 = Image.open('.\Muscle Group Pictures\Treadmill_1.png')
+treadmill_2 = Image.open('.\Muscle Group Pictures\Treadmill_2.png')
 
-assault_air_bike_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Assault Air Bike_1.png')
-assault_air_bike_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Assault Air Bike_2.png')
+assault_air_bike_1 = Image.open('.\Muscle Group Pictures\Assault Air Bike_1.png')
+assault_air_bike_2 = Image.open('.\Muscle Group Pictures\Assault Air Bike_2.png')
 
-elliptical_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Elliptical_1.png')
-elliptical_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Elliptical_2.png')
+elliptical_1 = Image.open('.\Muscle Group Pictures\Elliptical_1.png')
+elliptical_2 = Image.open('.\Muscle Group Pictures\Elliptical_2.png')
 
-thrusters_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Thrusters_1.png')
-thrusters_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Thrusters_2.png')
+thrusters_1 = Image.open('.\Muscle Group Pictures\Thrusters_1.png')
+thrusters_2 = Image.open('.\Muscle Group Pictures\Thrusters_2.png')
 
-snatch_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Snatch_1.png')
-snatch_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Snatch_2.png')
+snatch_1 = Image.open('.\Muscle Group Pictures\Snatch_1.png')
+snatch_2 = Image.open('.\Muscle Group Pictures\Snatch_2.png')
 
-hang_snatch_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Hang Snatch_1.png')
-hang_snatch_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Hang Snatch_2.png')
+hang_snatch_1 = Image.open('.\Muscle Group Pictures\Hang Snatch_1.png')
+hang_snatch_2 = Image.open('.\Muscle Group Pictures\Hang Snatch_2.png')
 
-clean_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Clean_1.png')
-clean_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Clean_2.png')
+clean_1 = Image.open('.\Muscle Group Pictures\Clean_1.png')
+clean_2 = Image.open('.\Muscle Group Pictures\Clean_2.png')
 
-hang_clean_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Hang Clean_1.png')
-hang_clean_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Hang Clean_2.png')
+hang_clean_1 = Image.open('.\Muscle Group Pictures\Hang Clean_1.png')
+hang_clean_2 = Image.open('.\Muscle Group Pictures\Hang Clean_2.png')
 
-power_clean_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Power Clean_1.png')
-power_clean_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Power Clean_2.png')
+power_clean_1 = Image.open('.\Muscle Group Pictures\Power Clean_1.png')
+power_clean_2 = Image.open('.\Muscle Group Pictures\Power Clean_2.png')
 
-overhead_squat_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Overhead Squat_1.png')
-overhead_squat_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Overhead Squat_2.png')
+overhead_squat_1 = Image.open('.\Muscle Group Pictures\Overhead Squat_1.png')
+overhead_squat_2 = Image.open('.\Muscle Group Pictures\Overhead Squat_2.png')
 
-burpees_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Burpees_1.png')
-burpees_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Burpees_2.png')
+burpees_1 = Image.open('.\Muscle Group Pictures\Burpees_1.png')
+burpees_2 = Image.open('.\Muscle Group Pictures\Burpees_2.png')
 
-wall_balls_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Wall Balls_1.png')
-wall_balls_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Wall Balls_2.png')
+wall_balls_1 = Image.open('.\Muscle Group Pictures\Wall Balls_1.png')
+wall_balls_2 = Image.open('.\Muscle Group Pictures\Wall Balls_2.png')
 
-leg_extensions_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Leg Extensions_1.png')
-leg_extensions_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Leg Extensions_2.png')
+leg_extensions_1 = Image.open('.\Muscle Group Pictures\Leg Extensions_1.png')
+leg_extensions_2 = Image.open('.\Muscle Group Pictures\Leg Extensions_2.png')
 
-sissy_squats_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Sissy Squats_1.png')
-sissy_squats_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Sissy Squats_2.png')
+sissy_squats_1 = Image.open('.\Muscle Group Pictures\Sissy Squats_1.png')
+sissy_squats_2 = Image.open('.\Muscle Group Pictures\Sissy Squats_2.png')
 
-wall_sit_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Wall Sit_1.png')
-wall_sit_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Wall Sit_2.png')
+wall_sit_1 = Image.open('.\Muscle Group Pictures\Wall Sit_1.png')
+wall_sit_2 = Image.open('.\Muscle Group Pictures\Wall Sit_2.png')
 
-kneeling_to_standing_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Kneeling-To-Standing_1.png')
-kneeling_to_standing_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Kneeling-To-Standing_2.png')
+kneeling_to_standing_1 = Image.open('.\Muscle Group Pictures\Kneeling-To-Standing_1.png')
+kneeling_to_standing_2 = Image.open('.\Muscle Group Pictures\Kneeling-To-Standing_2.png')
 
-muscle_snatch_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Muscle Snatch_1.png')
-muscle_snatch_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Muscle Snatch_2.png')
+muscle_snatch_1 = Image.open('.\Muscle Group Pictures\Muscle Snatch_1.png')
+muscle_snatch_2 = Image.open('.\Muscle Group Pictures\Muscle Snatch_2.png')
 
-devils_press_1 = Image.open("C:\Streamlit\Muscle Group Pictures\Devil's Press_1.png")
-devils_press_2 = Image.open("C:\Streamlit\Muscle Group Pictures\Devil's Press_2.png")
+devils_press_1 = Image.open(".\Muscle Group Pictures\Devil's Press_1.png")
+devils_press_2 = Image.open(".\Muscle Group Pictures\Devil's Press_2.png")
 
-overhead_ball_throws_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Overhead Ball Throws_1.png')
-overhead_ball_throws_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Overhead Ball Throws_2.png')
+overhead_ball_throws_1 = Image.open('.\Muscle Group Pictures\Overhead Ball Throws_1.png')
+overhead_ball_throws_2 = Image.open('.\Muscle Group Pictures\Overhead Ball Throws_2.png')
 
-battle_rope_exercises_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Battle Rope Exercises_1.png')
-battle_rope_exercises_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Battle Rope Exercises_2.png')
+battle_rope_exercises_1 = Image.open('.\Muscle Group Pictures\Battle Rope Exercises_1.png')
+battle_rope_exercises_2 = Image.open('.\Muscle Group Pictures\Battle Rope Exercises_2.png')
 
-front_raises_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Front Raises_1.png')
-front_raises_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Front Raises_2.png')
+front_raises_1 = Image.open('.\Muscle Group Pictures\Front Raises_1.png')
+front_raises_2 = Image.open('.\Muscle Group Pictures\Front Raises_2.png')
 
-bottoms_up_overhead_press_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Bottoms-Up Overhead Press_1.png')
-bottoms_up_overhead_press_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Bottoms-Up Overhead Press_2.png')
+bottoms_up_overhead_press_1 = Image.open('.\Muscle Group Pictures\Bottoms-Up Overhead Press_1.png')
+bottoms_up_overhead_press_2 = Image.open('.\Muscle Group Pictures\Bottoms-Up Overhead Press_2.png')
 
-bottoms_up_bench_press_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Bottoms-Up Bench Press_1.png')
-bottoms_up_bench_press_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Bottoms-Up Bench Press_2.png')
+bottoms_up_bench_press_1 = Image.open('.\Muscle Group Pictures\Bottoms-Up Bench Press_1.png')
+bottoms_up_bench_press_2 = Image.open('.\Muscle Group Pictures\Bottoms-Up Bench Press_2.png')
 
-bottoms_up_incline_press_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Bottoms-Up Incline Press_1.png')
-bottoms_up_incline_press_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Bottoms-Up Incline Press_2.png')
+bottoms_up_incline_press_1 = Image.open('.\Muscle Group Pictures\Bottoms-Up Incline Press_1.png')
+bottoms_up_incline_press_2 = Image.open('.\Muscle Group Pictures\Bottoms-Up Incline Press_2.png')
 
-single_arm_snatch_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Single-Arm Snatch_1.png')
-single_arm_snatch_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Single-Arm Snatch_2.png')
+single_arm_snatch_1 = Image.open('.\Muscle Group Pictures\Single-Arm Snatch_1.png')
+single_arm_snatch_2 = Image.open('.\Muscle Group Pictures\Single-Arm Snatch_2.png')
 
-power_snatch_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Power Snatch_1.png')
-power_snatch_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Power Snatch_2.png')
+power_snatch_1 = Image.open('.\Muscle Group Pictures\Power Snatch_1.png')
+power_snatch_2 = Image.open('.\Muscle Group Pictures\Power Snatch_2.png')
 
-muscle_clean_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Muscle Clean_1.png')
-muscle_clean_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Muscle Clean_2.png')
+muscle_clean_1 = Image.open('.\Muscle Group Pictures\Muscle Clean_1.png')
+muscle_clean_2 = Image.open('.\Muscle Group Pictures\Muscle Clean_2.png')
 
-clean_and_press_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Clean & Press_1.png')
-clean_and_press_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Clean & Press_2.png')
+clean_and_press_1 = Image.open('.\Muscle Group Pictures\Clean & Press_1.png')
+clean_and_press_2 = Image.open('.\Muscle Group Pictures\Clean & Press_2.png')
 
-waiters_walk_1 = Image.open("C:\Streamlit\Muscle Group Pictures\Waiter's Walk_1.png")
-waiters_walk_2 = Image.open("C:\Streamlit\Muscle Group Pictures\Waiter's Walk_2.png")
+waiters_walk_1 = Image.open(".\Muscle Group Pictures\Waiter's Walk_1.png")
+waiters_walk_2 = Image.open(".\Muscle Group Pictures\Waiter's Walk_2.png")
 
-lateral_raises_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Lateral Raises_1.png')
-lateral_raises_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Lateral Raises_2.png')
+lateral_raises_1 = Image.open('.\Muscle Group Pictures\Lateral Raises_1.png')
+lateral_raises_2 = Image.open('.\Muscle Group Pictures\Lateral Raises_2.png')
 
-landmine_lateral_raises_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Landmine Lateral Raises_1.png')
-landmine_lateral_raises_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Landmine Lateral Raises_2.png')
+landmine_lateral_raises_1 = Image.open('.\Muscle Group Pictures\Landmine Lateral Raises_1.png')
+landmine_lateral_raises_2 = Image.open('.\Muscle Group Pictures\Landmine Lateral Raises_2.png')
 
-single_arm_overhead_press_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Single-Arm Overhead Press_1.png')
-single_arm_overhead_press_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Single-Arm Overhead Press_2.png')
+single_arm_overhead_press_1 = Image.open('.\Muscle Group Pictures\Single-Arm Overhead Press_1.png')
+single_arm_overhead_press_2 = Image.open('.\Muscle Group Pictures\Single-Arm Overhead Press_2.png')
 
-standing_overhead_press_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Standing Overhead Press_1.png')
-standing_overhead_press_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Standing Overhead Press_2.png')
+standing_overhead_press_1 = Image.open('.\Muscle Group Pictures\Standing Overhead Press_1.png')
+standing_overhead_press_2 = Image.open('.\Muscle Group Pictures\Standing Overhead Press_2.png')
 
-seated_overhead_press_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Seated Overhead Press_1.png')
-seated_overhead_press_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Seated Overhead Press_2.png')
+seated_overhead_press_1 = Image.open('.\Muscle Group Pictures\Seated Overhead Press_1.png')
+seated_overhead_press_2 = Image.open('.\Muscle Group Pictures\Seated Overhead Press_2.png')
 
-single_arm_landmine_press_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Single-Arm Landmine Press_1.png')
-single_arm_landmine_press_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Single-Arm Landmine Press_2.png')
+single_arm_landmine_press_1 = Image.open('.\Muscle Group Pictures\Single-Arm Landmine Press_1.png')
+single_arm_landmine_press_2 = Image.open('.\Muscle Group Pictures\Single-Arm Landmine Press_2.png')
 
-arnold_press_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Arnold Press_1.png')
-arnold_press_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Arnold Press_2.png')
+arnold_press_1 = Image.open('.\Muscle Group Pictures\Arnold Press_1.png')
+arnold_press_2 = Image.open('.\Muscle Group Pictures\Arnold Press_2.png')
 
-z_press_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Z-Press_1.png')
-z_press_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Z-Press_2.png')
+z_press_1 = Image.open('.\Muscle Group Pictures\Z-Press_1.png')
+z_press_2 = Image.open('.\Muscle Group Pictures\Z-Press_2.png')
 
-three_way_reaches_1 = Image.open(r'C:/Streamlit/Muscle Group Pictures/3-Way Reaches_1.png')
-three_way_reaches_2 = Image.open(r'C:/Streamlit/Muscle Group Pictures/3-Way Reaches_2.png')
+three_way_reaches_1 = Image.open(r'./Muscle Group Pictures/3-Way Reaches_1.png')
+three_way_reaches_2 = Image.open(r'./Muscle Group Pictures/3-Way Reaches_2.png')
 
-lateral_plank_walks_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Lateral Plank Walks_1.png')
-lateral_plank_walks_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Lateral Plank Walks_2.png')
+lateral_plank_walks_1 = Image.open('.\Muscle Group Pictures\Lateral Plank Walks_1.png')
+lateral_plank_walks_2 = Image.open('.\Muscle Group Pictures\Lateral Plank Walks_2.png')
 
-i_y_t_1 = Image.open("C:\Streamlit\Muscle Group Pictures\I-Y-T's_1.png")
-i_y_t_2 = Image.open("C:\Streamlit\Muscle Group Pictures\I-Y-T's_2.png")
+i_y_t_1 = Image.open(".\Muscle Group Pictures\I-Y-T's_1.png")
+i_y_t_2 = Image.open(".\Muscle Group Pictures\I-Y-T's_2.png")
 
-standing_horizontal_press_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Standing Horizontal Press_1.png')
-standing_horizontal_press_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Standing Horizontal Press_2.png')
+standing_horizontal_press_1 = Image.open('.\Muscle Group Pictures\Standing Horizontal Press_1.png')
+standing_horizontal_press_2 = Image.open('.\Muscle Group Pictures\Standing Horizontal Press_2.png')
 
-prone_lying_snow_angels_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Prone Lying Snow Angels_1.png')
-prone_lying_snow_angels_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Prone Lying Snow Angels_2.png')
+prone_lying_snow_angels_1 = Image.open('.\Muscle Group Pictures\Prone Lying Snow Angels_1.png')
+prone_lying_snow_angels_2 = Image.open('.\Muscle Group Pictures\Prone Lying Snow Angels_2.png')
 
-turkish_get_up_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Turkish Get-Up_1.png')
-turkish_get_up_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Turkish Get-Up_2.png')
+turkish_get_up_1 = Image.open('.\Muscle Group Pictures\Turkish Get-Up_1.png')
+turkish_get_up_2 = Image.open('.\Muscle Group Pictures\Turkish Get-Up_2.png')
 
-shoulder_external_rotations_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Shoulder External Rotations_1.png')
-shoulder_external_rotations_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Shoulder External Rotations_2.png')
+shoulder_external_rotations_1 = Image.open('.\Muscle Group Pictures\Shoulder External Rotations_1.png')
+shoulder_external_rotations_2 = Image.open('.\Muscle Group Pictures\Shoulder External Rotations_2.png')
 
-shoulder_internal_rotations_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Shoulder Internal Rotations_1.png')
-shoulder_internal_rotations_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Shoulder Internal Rotations_2.png')
+shoulder_internal_rotations_1 = Image.open('.\Muscle Group Pictures\Shoulder Internal Rotations_1.png')
+shoulder_internal_rotations_2 = Image.open('.\Muscle Group Pictures\Shoulder Internal Rotations_2.png')
 
-shrugs_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Shrugs_1.png')
-shrugs_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Shrugs_2.png')
+shrugs_1 = Image.open('.\Muscle Group Pictures\Shrugs_1.png')
+shrugs_2 = Image.open('.\Muscle Group Pictures\Shrugs_2.png')
 
-upright_rows_1 = Image.open(r'C:/Streamlit/Muscle Group Pictures/Upright Rows_1.png')
-upright_rows_2 = Image.open(r'C:/Streamlit/Muscle Group Pictures/Upright Rows_2.png')
+upright_rows_1 = Image.open(r'./Muscle Group Pictures/Upright Rows_1.png')
+upright_rows_2 = Image.open(r'./Muscle Group Pictures/Upright Rows_2.png')
 
-tricep_kickbacks_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Tricep Kickbacks_1.png')
-tricep_kickbacks_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Tricep Kickbacks_2.png')
+tricep_kickbacks_1 = Image.open('.\Muscle Group Pictures\Tricep Kickbacks_1.png')
+tricep_kickbacks_2 = Image.open('.\Muscle Group Pictures\Tricep Kickbacks_2.png')
 
-dips_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Dips_1.png')
-dips_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Dips_2.png')
+dips_1 = Image.open('.\Muscle Group Pictures\Dips_1.png')
+dips_2 = Image.open('.\Muscle Group Pictures\Dips_2.png')
 
-dips_assisted_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Dips (Assisted)_1.png')
-dips_assisted_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Dips (Assisted)_2.png')
+dips_assisted_1 = Image.open('.\Muscle Group Pictures\Dips (Assisted)_1.png')
+dips_assisted_2 = Image.open('.\Muscle Group Pictures\Dips (Assisted)_2.png')
 
-skull_crushers_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Skull Crushers_1.png')
-skull_crushers_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Skull Crushers_2.png')
+skull_crushers_1 = Image.open('.\Muscle Group Pictures\Skull Crushers_1.png')
+skull_crushers_2 = Image.open('.\Muscle Group Pictures\Skull Crushers_2.png')
 
-overhead_tricep_extensions_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Overhead Tricep Extensions_1.png')
-overhead_tricep_extensions_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Overhead Tricep Extensions_2.png')
+overhead_tricep_extensions_1 = Image.open('.\Muscle Group Pictures\Overhead Tricep Extensions_1.png')
+overhead_tricep_extensions_2 = Image.open('.\Muscle Group Pictures\Overhead Tricep Extensions_2.png')
 
-tricep_pushdowns_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Tricep Pushdowns_1.png')
-tricep_pushdowns_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Tricep Pushdowns_2.png')
+tricep_pushdowns_1 = Image.open('.\Muscle Group Pictures\Tricep Pushdowns_1.png')
+tricep_pushdowns_2 = Image.open('.\Muscle Group Pictures\Tricep Pushdowns_2.png')
 
-seal_rows_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Seal Rows_1.png')
-seal_rows_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Seal Rows_2.png')
+seal_rows_1 = Image.open('.\Muscle Group Pictures\Seal Rows_1.png')
+seal_rows_2 = Image.open('.\Muscle Group Pictures\Seal Rows_2.png')
 
-seated_rows_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Seated Rows_1.png')
-seated_rows_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Seated Rows_2.png')
+seated_rows_1 = Image.open('.\Muscle Group Pictures\Seated Rows_1.png')
+seated_rows_2 = Image.open('.\Muscle Group Pictures\Seated Rows_2.png')
 
-sled_pulls_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Sled Pulls_1.png')
-sled_pulls_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Sled Pulls_2.png')
+sled_pulls_1 = Image.open('.\Muscle Group Pictures\Sled Pulls_1.png')
+sled_pulls_2 = Image.open('.\Muscle Group Pictures\Sled Pulls_2.png')
 
-inverted_row_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Inverted Rows_1.png')
-inverted_row_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Inverted Rows_2.png')
+inverted_row_1 = Image.open('.\Muscle Group Pictures\Inverted Rows_1.png')
+inverted_row_2 = Image.open('.\Muscle Group Pictures\Inverted Rows_2.png')
 
-landmine_rows_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Landmine Rows_1.png')
-landmine_rows_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Landmine Rows_2.png')
+landmine_rows_1 = Image.open('.\Muscle Group Pictures\Landmine Rows_1.png')
+landmine_rows_2 = Image.open('.\Muscle Group Pictures\Landmine Rows_2.png')
 
-bent_over_rows_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Bent Over Rows_1.png')
-bent_over_rows_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Bent Over Rows_2.png')
+bent_over_rows_1 = Image.open('.\Muscle Group Pictures\Bent Over Rows_1.png')
+bent_over_rows_2 = Image.open('.\Muscle Group Pictures\Bent Over Rows_2.png')
 
-single_arm_rows_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Single-Arm Rows_1.png')
-single_arm_rows_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Single-Arm Rows_2.png')
+single_arm_rows_1 = Image.open('.\Muscle Group Pictures\Single-Arm Rows_1.png')
+single_arm_rows_2 = Image.open('.\Muscle Group Pictures\Single-Arm Rows_2.png')
 
-rower_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Rower_1.png')
-rower_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Rower_2.png')
+rower_1 = Image.open('.\Muscle Group Pictures\Rower_1.png')
+rower_2 = Image.open('.\Muscle Group Pictures\Rower_2.png')
 
-face_pulls_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Face Pulls_1.png')
-face_pulls_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Face Pulls_2.png')
+face_pulls_1 = Image.open('.\Muscle Group Pictures\Face Pulls_1.png')
+face_pulls_2 = Image.open('.\Muscle Group Pictures\Face Pulls_2.png')
 
-reverse_flys_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Reverse Flys_1.png')
-reverse_flys_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Reverse Flys_2.png')
+reverse_flys_1 = Image.open('.\Muscle Group Pictures\Reverse Flys_1.png')
+reverse_flys_2 = Image.open('.\Muscle Group Pictures\Reverse Flys_2.png')
 
-renegade_rows_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Renegade Rows_1.png')
-renegade_rows_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Renegade Rows_2.png')
+renegade_rows_1 = Image.open('.\Muscle Group Pictures\Renegade Rows_1.png')
+renegade_rows_2 = Image.open('.\Muscle Group Pictures\Renegade Rows_2.png')
 
-pull_throughs_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Pull Throughs_1.png')
-pull_throughs_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Pull Throughs_2.png')
+pull_throughs_1 = Image.open('.\Muscle Group Pictures\Pull Throughs_1.png')
+pull_throughs_2 = Image.open('.\Muscle Group Pictures\Pull Throughs_2.png')
 
-front_loaded_carry_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Front Loaded Carry_1.png')
-front_loaded_carry_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Front Loaded Carry_2.png')
+front_loaded_carry_1 = Image.open('.\Muscle Group Pictures\Front Loaded Carry_1.png')
+front_loaded_carry_2 = Image.open('.\Muscle Group Pictures\Front Loaded Carry_2.png')
 
-push_press_1 = Image.open('C:\Streamlit\Muscle Group Pictures\Push Press_1.png')
-push_press_2 = Image.open('C:\Streamlit\Muscle Group Pictures\Push Press_2.png')
+push_press_1 = Image.open('.\Muscle Group Pictures\Push Press_1.png')
+push_press_2 = Image.open('.\Muscle Group Pictures\Push Press_2.png')
 
 muscle_group_pics = [sit_ups_1, sit_ups_2, ghd_sit_ups_1, ghd_sit_ups_2, flutter_kicks_1, flutter_kicks_2,
                      lying_leg_raises_1, lying_leg_raises_2, in_and_outs_1, in_and_outs_2, scissor_kicks_1,
