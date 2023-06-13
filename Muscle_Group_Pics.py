@@ -2,9 +2,8 @@
 # the muscle group pictures which will be referenced in the main script
 
 from PIL import Image
-from pathlib import Path
 
-path = Path(__file__).parent / 'Muscle_Group_Pictures'
+path = 'Exercise_Library_Streamlit_App' / 'Muscle_Group_Pictures'
 
 sit_ups_1 = Image.open(path / 'Sit-Ups_1.png')
 sit_ups_2 = Image.open(path / 'Sit-Ups_2.png')
