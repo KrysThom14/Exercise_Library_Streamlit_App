@@ -2,6 +2,11 @@
 # the muscle group pictures which will be referenced in the main script
 
 from PIL import Image
+import os
+
+current_dir = os.getcwd()
+image_path_1 = os.path.join(current_dir, 'Muscle_Group_Pictures', 'Sit-Ups_1.png')
+print(image_path_1)
 
 sit_ups_1 = Image.open('Muscle_Group_Pictures/Sit-Ups_1.png')
 sit_ups_2 = Image.open('Muscle_Group_Pictures/Sit-Ups_2.png')
