@@ -2,6 +2,11 @@
 # the exercise demo pictures which will be referenced in the main script
 
 from PIL import Image
+import os
+
+current_dir = os.getcwd()
+image_path_2 = os.path.join(current_dir, 'Exercise_Demo_Pictures', 'Sit-Ups_1.jpg')
+print(image_path_2)
 
 three_way_reaches_1 = Image.open(r"Exercise_Demo_Pictures/3-Way Reaches_1.jpg")
 three_way_reaches_2 = Image.open(r"Exercise_Demo_Pictures/3-Way Reaches_2.jpg")
