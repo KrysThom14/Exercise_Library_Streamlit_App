@@ -651,9 +651,6 @@ reverse_flys_2 = Image.open('Muscle_Group_Pictures/Reverse Flys_2.PNG')
 renegade_rows_1 = Image.open('Muscle_Group_Pictures/Renegade Rows_1.PNG')
 renegade_rows_2 = Image.open('Muscle_Group_Pictures/Renegade Rows_2.PNG')
 
-pull_throughs_1 = Image.open('Muscle_Group_Pictures/Pull Throughs_1.PNG')
-pull_throughs_2 = Image.open('Muscle_Group_Pictures/Pull Throughs_2.PNG')
-
 front_loaded_carry_1 = Image.open('Muscle_Group_Pictures/Front Loaded Carry_1.PNG')
 front_loaded_carry_2 = Image.open('Muscle_Group_Pictures/Front Loaded Carry_2.PNG')
 
