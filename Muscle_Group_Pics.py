@@ -201,7 +201,7 @@ single_leg_hip_thrusters_2 = Image.open('Muscle_Group_Pictures/Single-Leg Hip Th
 single_leg_glute_bridges_1 = Image.open('Muscle_Group_Pictures/Single-Leg Glute Bridges_1.PNG')
 single_leg_glute_bridges_2 = Image.open('Muscle_Group_Pictures/Single-Leg Glute Bridges_2.PNG')
 
-pull_throughs_1 = Image.open('Muscle_Group_Pictures/Pull Throughs_1.PNG')
+pull_throughs_1 = Image.open('Muscle_Group_Pictures/Pull Throughs_1.png')
 pull_throughs_2 = Image.open('Muscle_Group_Pictures/Pull Throughs_2.PNG')
 
 shin_hops_1 = Image.open('Muscle_Group_Pictures/Shin Hops_1.PNG')
