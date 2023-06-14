@@ -365,7 +365,7 @@ incline_bench_press_3 = Image.open("Exercise_Demo_Pictures/Incline Bench Press_3
 incline_bench_press_4 = Image.open("Exercise_Demo_Pictures/Incline Bench Press_4.jpg")
 
 incline_chest_flys_1 = Image.open("Exercise_Demo_Pictures/Incline Chest Flys_1.jpg")
-incline_chest_flys_2 = Image.open("Exercise_Demo_Pictures/Incline Chest Flys_2.jpg")
+incline_chest_flys_2 = Image.open("Exercise_Demo_Pictures/Incline Chest Flys_2.JPG")
 incline_chest_flys_3 = Image.open("Exercise_Demo_Pictures/Incline Chest Flys_3.jpg")
 incline_chest_flys_4 = Image.open("Exercise_Demo_Pictures/Incline Chest Flys_4.jpg")
 incline_chest_flys_5 = Image.open("Exercise_Demo_Pictures/Incline Chest Flys_5.jpg")
