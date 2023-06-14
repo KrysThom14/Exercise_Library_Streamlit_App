@@ -3,663 +3,662 @@
 
 from PIL import Image
 
-
 sit_ups_1 = Image.open('Muscle_Group_Pictures/Sit-Ups_1.PNG')
-sit_ups_2 = Image.open(path / 'Sit-Ups_2.png')
+sit_ups_2 = Image.open('Muscle_Group_Pictures/Sit-Ups_2.PNG')
 
-ghd_sit_ups_1 = Image.open(path / 'G.H.D. Sit-Ups_1.png')
-ghd_sit_ups_2 = Image.open(path / 'G.H.D. Sit-Ups_2.png')
+ghd_sit_ups_1 = Image.open('Muscle_Group_Pictures/G.H.D. Sit-Ups_1.PNG')
+ghd_sit_ups_2 = Image.open('Muscle_Group_Pictures/G.H.D. Sit-Ups_2.PNG')
 
-flutter_kicks_1 = Image.open(path / 'Flutter Kicks_1.png')
-flutter_kicks_2 = Image.open(path / 'Flutter Kicks_2.png')
+flutter_kicks_1 = Image.open('Muscle_Group_Pictures/Flutter Kicks_1.PNG')
+flutter_kicks_2 = Image.open('Muscle_Group_Pictures/Flutter Kicks_2.PNG')
 
-lying_leg_raises_1 = Image.open(path / 'Lying Leg Raises_1.png')
-lying_leg_raises_2 = Image.open(path / 'Lying Leg Raises_2.png')
+lying_leg_raises_1 = Image.open('Muscle_Group_Pictures/Lying Leg Raises_1.PNG')
+lying_leg_raises_2 = Image.open('Muscle_Group_Pictures/Lying Leg Raises_2.PNG')
 
-in_and_outs_1 = Image.open(path / 'In & Outs_1.png')
-in_and_outs_2 = Image.open(path / 'In & Outs_2.png')
+in_and_outs_1 = Image.open('Muscle_Group_Pictures/In & Outs_1.PNG')
+in_and_outs_2 = Image.open('Muscle_Group_Pictures/In & Outs_2.PNG')
 
-scissor_kicks_1 = Image.open(path / 'Scissor Kicks_1.png')
-scissor_kicks_2 = Image.open(path / 'Scissor Kicks_2.png')
+scissor_kicks_1 = Image.open('Muscle_Group_Pictures/Scissor Kicks_1.PNG')
+scissor_kicks_2 = Image.open('Muscle_Group_Pictures/Scissor Kicks_2.PNG')
 
-decline_sit_ups_1 = Image.open(path / 'Decline Sit-Ups_1.png')
-decline_sit_ups_2 = Image.open(path / 'Decline Sit-Ups_2.png')
+decline_sit_ups_1 = Image.open('Muscle_Group_Pictures/Decline Sit-Ups_1.PNG')
+decline_sit_ups_2 = Image.open('Muscle_Group_Pictures/Decline Sit-Ups_2.PNG')
 
-decline_reverse_crunch_1 = Image.open(path / 'Decline Reverse Crunch_1.png')
-decline_reverse_crunch_2 = Image.open(path / 'Decline Reverse Crunch_2.png')
+decline_reverse_crunch_1 = Image.open('Muscle_Group_Pictures/Decline Reverse Crunch_1.PNG')
+decline_reverse_crunch_2 = Image.open('Muscle_Group_Pictures/Decline Reverse Crunch_2.PNG')
 
-hanging_knee_raises_1 = Image.open(path / 'Hanging Knee Raises_1.png')
-hanging_knee_raises_2 = Image.open(path / 'Hanging Knee Raises_2.png')
+hanging_knee_raises_1 = Image.open('Muscle_Group_Pictures/Hanging Knee Raises_1.PNG')
+hanging_knee_raises_2 = Image.open('Muscle_Group_Pictures/Hanging Knee Raises_2.PNG')
 
-hanging_leg_raises_1 = Image.open(path / 'Hanging Leg Raises_1.png')
-hanging_leg_raises_2 = Image.open(path / 'Hanging Leg Raises_2.png')
+hanging_leg_raises_1 = Image.open('Muscle_Group_Pictures/Hanging Leg Raises_1.PNG')
+hanging_leg_raises_2 = Image.open('Muscle_Group_Pictures/Hanging Leg Raises_2.PNG')
 
-toes_to_bar_1 = Image.open(path / 'Toes-To-Bar_1.png')
-toes_to_bar_2 = Image.open(path / 'Toes-To-Bar_2.png')
+toes_to_bar_1 = Image.open('Muscle_Group_Pictures/Toes-To-Bar_1.PNG')
+toes_to_bar_2 = Image.open('Muscle_Group_Pictures/Toes-To-Bar_2.PNG')
 
-dead_bugs_1 = Image.open(path / 'Dead Bugs_1.png')
-dead_bugs_2 = Image.open(path / 'Dead Bugs_2.png')
+dead_bugs_1 = Image.open('Muscle_Group_Pictures/Dead Bugs_1.PNG')
+dead_bugs_2 = Image.open('Muscle_Group_Pictures/Dead Bugs_2.PNG')
 
-lying_knee_tucks_1 = Image.open(path / 'Lying Knee Tucks_1.png')
-lying_knee_tucks_2 = Image.open(path / 'Lying Knee Tucks_2.png')
+lying_knee_tucks_1 = Image.open('Muscle_Group_Pictures/Lying Knee Tucks_1.PNG')
+lying_knee_tucks_2 = Image.open('Muscle_Group_Pictures/Lying Knee Tucks_2.PNG')
 
-sit_ups_with_ball_toss_1 = Image.open(path / 'Sit-Ups with Ball Toss_1.png')
-sit_ups_with_ball_toss_2 = Image.open(path / 'Sit-Ups with Ball Toss_2.png')
+sit_ups_with_ball_toss_1 = Image.open('Muscle_Group_Pictures/Sit-Ups with Ball Toss_1.PNG')
+sit_ups_with_ball_toss_2 = Image.open('Muscle_Group_Pictures/Sit-Ups with Ball Toss_2.PNG')
 
-knee_tuck_holds_1 = Image.open(path / 'Knee Tuck Holds_1.png')
-knee_tuck_holds_2 = Image.open(path / 'Knee Tuck Holds_2.png')
+knee_tuck_holds_1 = Image.open('Muscle_Group_Pictures/Knee Tuck Holds_1.PNG')
+knee_tuck_holds_2 = Image.open('Muscle_Group_Pictures/Knee Tuck Holds_2.PNG')
 
-knee_tuck_planks_1 = Image.open(path / 'Knee Tuck Planks_1.png')
-knee_tuck_planks_2 = Image.open(path / 'Knee Tuck Planks_2.png')
+knee_tuck_planks_1 = Image.open('Muscle_Group_Pictures/Knee Tuck Planks_1.PNG')
+knee_tuck_planks_2 = Image.open('Muscle_Group_Pictures/Knee Tuck Planks_2.PNG')
 
-planks_1 = Image.open(path / 'Planks_1.png')
-planks_2 = Image.open(path / 'Planks_2.png')
+planks_1 = Image.open('Muscle_Group_Pictures/Planks_1.PNG')
+planks_2 = Image.open('Muscle_Group_Pictures/Planks_2.PNG')
 
-side_step_planks_1 = Image.open(path / 'Side Step Planks_1.png')
-side_step_planks_2 = Image.open(path / 'Side Step Planks_2.png')
+side_step_planks_1 = Image.open('Muscle_Group_Pictures/Side Step Planks_1.PNG')
+side_step_planks_2 = Image.open('Muscle_Group_Pictures/Side Step Planks_2.PNG')
 
-lying_leg_circles_1 = Image.open(path / 'Lying Leg Circles_1.png')
-lying_leg_circles_2 = Image.open(path / 'Lying Leg Circles_2.png')
+lying_leg_circles_1 = Image.open('Muscle_Group_Pictures/Lying Leg Circles_1.PNG')
+lying_leg_circles_2 = Image.open('Muscle_Group_Pictures/Lying Leg Circles_2.PNG')
 
-ab_bicycle_1 = Image.open(path / 'Ab Bicycles_1.png')
-ab_bicycle_2 = Image.open(path / 'Ab Bicycles_2.png')
+ab_bicycle_1 = Image.open('Muscle_Group_Pictures/Ab Bicycles_1.PNG')
+ab_bicycle_2 = Image.open('Muscle_Group_Pictures/Ab Bicycles_2.PNG')
 
-banana_cannon_ball_1 = Image.open(path / 'Banana-Cannon Ball_1.png')
-banana_cannon_ball_2 = Image.open(path / 'Banana-Cannon Ball_2.png')
+banana_cannon_ball_1 = Image.open('Muscle_Group_Pictures/Banana-Cannon Ball_1.PNG')
+banana_cannon_ball_2 = Image.open('Muscle_Group_Pictures/Banana-Cannon Ball_2.PNG')
 
-hollow_body_holds_1 = Image.open(path / 'Hollow Body Holds_1.png')
-hollow_body_holds_2 = Image.open(path / 'Hollow Body Holds_2.png')
+hollow_body_holds_1 = Image.open('Muscle_Group_Pictures/Hollow Body Holds_1.PNG')
+hollow_body_holds_2 = Image.open('Muscle_Group_Pictures/Hollow Body Holds_2.PNG')
 
-ball_slams_1 = Image.open(path / 'Ball Slams_1.png')
-ball_slams_2 = Image.open(path / 'Ball Slams_2.png')
+ball_slams_1 = Image.open('Muscle_Group_Pictures/Ball Slams_1.PNG')
+ball_slams_2 = Image.open('Muscle_Group_Pictures/Ball Slams_2.PNG')
 
-stir_the_pot_1 = Image.open(path / 'Stir-The-Pot_1.png')
-stir_the_pot_2 = Image.open(path / 'Stir-The-Pot_2.png')
+stir_the_pot_1 = Image.open('Muscle_Group_Pictures/Stir-The-Pot_1.PNG')
+stir_the_pot_2 = Image.open('Muscle_Group_Pictures/Stir-The-Pot_2.PNG')
 
-sledgehammer_strikes_1 = Image.open(path / 'Sledgehammer Strikes_1.png')
-sledgehammer_strikes_2 = Image.open(path / 'Sledgehammer Strikes_2.png')
+sledgehammer_strikes_1 = Image.open('Muscle_Group_Pictures/Sledgehammer Strikes_1.PNG')
+sledgehammer_strikes_2 = Image.open('Muscle_Group_Pictures/Sledgehammer Strikes_2.PNG')
 
-roll_outs_1 = Image.open(path / 'Roll-Outs_1.png')
-roll_outs_2 = Image.open(path / 'Roll-Outs_2.png')
+roll_outs_1 = Image.open('Muscle_Group_Pictures/Roll-Outs_1.PNG')
+roll_outs_2 = Image.open('Muscle_Group_Pictures/Roll-Outs_2.PNG')
 
-kneeling_crunches_1 = Image.open(path / 'Kneeling Crunches_1.png')
-kneeling_crunches_2 = Image.open(path / 'Kneeling Crunches_2.png')
+kneeling_crunches_1 = Image.open('Muscle_Group_Pictures/Kneeling Crunches_1.PNG')
+kneeling_crunches_2 = Image.open('Muscle_Group_Pictures/Kneeling Crunches_2.PNG')
 
-lateral_band_walks_1 = Image.open(path / 'Lateral Band Walks_1.png')
-lateral_band_walks_2 = Image.open(path / 'Lateral Band Walks_2.png')
+lateral_band_walks_1 = Image.open('Muscle_Group_Pictures/Lateral Band Walks_1.PNG')
+lateral_band_walks_2 = Image.open('Muscle_Group_Pictures/Lateral Band Walks_2.PNG')
 
-standing_hip_abductions_1 = Image.open(path / 'Standing Hip Abductions_1.png')
-standing_hip_abductions_2 = Image.open(path / 'Standing Hip Abductions_2.png')
+standing_hip_abductions_1 = Image.open('Muscle_Group_Pictures/Standing Hip Abductions_1.PNG')
+standing_hip_abductions_2 = Image.open('Muscle_Group_Pictures/Standing Hip Abductions_2.PNG')
 
-seated_hip_abductions_1 = Image.open(path / 'Seated Hip Abductions_1.png')
-seated_hip_abductions_2 = Image.open(path / 'Seated Hip Abductions_2.png')
+seated_hip_abductions_1 = Image.open('Muscle_Group_Pictures/Seated Hip Abductions_1.PNG')
+seated_hip_abductions_2 = Image.open('Muscle_Group_Pictures/Seated Hip Abductions_2.PNG')
 
-side_lying_hip_abductions_1 = Image.open(path / 'Side Lying Hip Abductions_1.png')
-side_lying_hip_abductions_2 = Image.open(path / 'Side Lying Hip Abductions_2.png')
+side_lying_hip_abductions_1 = Image.open('Muscle_Group_Pictures/Side Lying Hip Abductions_1.PNG')
+side_lying_hip_abductions_2 = Image.open('Muscle_Group_Pictures/Side Lying Hip Abductions_2.PNG')
 
-side_plank_clamshells_1 = Image.open(path / 'Side Plank Clamshells_1.png')
-side_plank_clamshells_2 = Image.open(path / 'Side Plank Clamshells_2.png')
+side_plank_clamshells_1 = Image.open('Muscle_Group_Pictures/Side Plank Clamshells_1.PNG')
+side_plank_clamshells_2 = Image.open('Muscle_Group_Pictures/Side Plank Clamshells_2.PNG')
 
-copenhagen_planks_1 = Image.open(path / 'Copenhagen Plank_1.png')
-copenhagen_planks_2 = Image.open(path / 'Copenhagen Plank_2.png')
+copenhagen_planks_1 = Image.open('Muscle_Group_Pictures/Copenhagen Plank_1.PNG')
+copenhagen_planks_2 = Image.open('Muscle_Group_Pictures/Copenhagen Plank_2.PNG')
 
-seated_hip_adductions_1 = Image.open(path / 'Seated Hip Adductions_1.png')
-seated_hip_adductions_2 = Image.open(path / 'Seated Hip Adductions_2.png')
+seated_hip_adductions_1 = Image.open('Muscle_Group_Pictures/Seated Hip Adductions_1.PNG')
+seated_hip_adductions_2 = Image.open('Muscle_Group_Pictures/Seated Hip Adductions_2.PNG')
 
-standing_hip_adductions_1 = Image.open(path / 'Standing Hip Adductions_1.png')
-standing_hip_adductions_2 = Image.open(path / 'Standing Hip Adductions_2.png')
+standing_hip_adductions_1 = Image.open('Muscle_Group_Pictures/Standing Hip Adductions_1.PNG')
+standing_hip_adductions_2 = Image.open('Muscle_Group_Pictures/Standing Hip Adductions_2.PNG')
 
-adductor_leg_lifts_1 = Image.open(path / 'Adductor Leg Lifts_1.png')
-adductor_leg_lifts_2 = Image.open(path / 'Adductor Leg Lifts_2.png')
+adductor_leg_lifts_1 = Image.open('Muscle_Group_Pictures/Adductor Leg Lifts_1.PNG')
+adductor_leg_lifts_2 = Image.open('Muscle_Group_Pictures/Adductor Leg Lifts_2.PNG')
 
-shin_curls_1 = Image.open(path / 'Shin Curls_1.png')
-shin_curls_2 = Image.open(path / 'Shin Curls_2.png')
+shin_curls_1 = Image.open('Muscle_Group_Pictures/Shin Curls_1.PNG')
+shin_curls_2 = Image.open('Muscle_Group_Pictures/Shin Curls_2.PNG')
 
-heel_walks_1 = Image.open(path / 'Heel Walks_1.png')
-heel_walks_2 = Image.open(path / 'Heel Walks_2.png')
+heel_walks_1 = Image.open('Muscle_Group_Pictures/Heel Walks_1.PNG')
+heel_walks_2 = Image.open('Muscle_Group_Pictures/Heel Walks_2.PNG')
 
-hammer_curls_1 = Image.open(path / 'Hammer Curls_1.png')
-hammer_curls_2 = Image.open(path / 'Hammer Curls_2.png')
+hammer_curls_1 = Image.open('Muscle_Group_Pictures/Hammer Curls_1.PNG')
+hammer_curls_2 = Image.open('Muscle_Group_Pictures/Hammer Curls_2.PNG')
 
-seated_incline_bicep_curls_1 = Image.open(path / 'Seated Incline Bicep Curl_1.png')
-seated_incline_bicep_curls_2 = Image.open(path / 'Seated Incline Bicep Curl_2.png')
+seated_incline_bicep_curls_1 = Image.open('Muscle_Group_Pictures/Seated Incline Bicep Curl_1.PNG')
+seated_incline_bicep_curls_2 = Image.open('Muscle_Group_Pictures/Seated Incline Bicep Curl_2.PNG')
 
-bicep_curl_1 = Image.open(path / 'Bicep Curls_1.png')
-bicep_curl_2 = Image.open(path / 'Bicep Curls_2.png')
+bicep_curl_1 = Image.open('Muscle_Group_Pictures/Bicep Curls_1.PNG')
+bicep_curl_2 = Image.open('Muscle_Group_Pictures/Bicep Curls_2.PNG')
 
-preacher_curl_1 = Image.open(path / 'Preacher Curl_1.png')
-preacher_curl_2 = Image.open(path / 'Preacher Curl_2.png')
+preacher_curl_1 = Image.open('Muscle_Group_Pictures/Preacher Curl_1.PNG')
+preacher_curl_2 = Image.open('Muscle_Group_Pictures/Preacher Curl_2.PNG')
 
-rope_climbs_1 = Image.open(path / 'Rope Climbs_1.png')
-rope_climbs_2 = Image.open(path / 'Rope Climbs_2.png')
+rope_climbs_1 = Image.open('Muscle_Group_Pictures/Rope Climbs_1.PNG')
+rope_climbs_2 = Image.open('Muscle_Group_Pictures/Rope Climbs_2.PNG')
 
-jumping_rope_1 = Image.open(path / 'Jumping Rope_1.png')
-jumping_rope_2 = Image.open(path / 'Jumping Rope_2.png')
+jumping_rope_1 = Image.open('Muscle_Group_Pictures/Jumping Rope_1.PNG')
+jumping_rope_2 = Image.open('Muscle_Group_Pictures/Jumping Rope_2.PNG')
 
-calf_raises_1 = Image.open(path / 'Calf Raises_1.png')
-calf_raises_2 = Image.open(path / 'Calf Raises_2.png')
+calf_raises_1 = Image.open('Muscle_Group_Pictures/Calf Raises_1.PNG')
+calf_raises_2 = Image.open('Muscle_Group_Pictures/Calf Raises_2.PNG')
 
-seated_calf_raises_1 = Image.open(path / 'Seated Calf Raises_1.png')
-seated_calf_raises_2 = Image.open(path / 'Seated Calf Raises_2.png')
+seated_calf_raises_1 = Image.open('Muscle_Group_Pictures/Seated Calf Raises_1.PNG')
+seated_calf_raises_2 = Image.open('Muscle_Group_Pictures/Seated Calf Raises_2.PNG')
 
-single_leg_calf_raises_1 = Image.open(path / 'Single-Leg Calf Raises_1.png')
-single_leg_calf_raises_2 = Image.open(path / 'Single-Leg Calf Raises_2.png')
+single_leg_calf_raises_1 = Image.open('Muscle_Group_Pictures/Single-Leg Calf Raises_1.PNG')
+single_leg_calf_raises_2 = Image.open('Muscle_Group_Pictures/Single-Leg Calf Raises_2.PNG')
 
-chest_flys_1 = Image.open(path / 'Chest Flys_1.png')
-chest_flys_2 = Image.open(path / 'Chest Flys_2.png')
+chest_flys_1 = Image.open('Muscle_Group_Pictures/Chest Flys_1.PNG')
+chest_flys_2 = Image.open('Muscle_Group_Pictures/Chest Flys_2.PNG')
 
-incline_chest_flys_1 = Image.open(path / 'Incline Chest Flys_1.png')
-incline_chest_flys_2 = Image.open(path / 'Incline Chest Flys_2.png')
+incline_chest_flys_1 = Image.open('Muscle_Group_Pictures/Incline Chest Flys_1.PNG')
+incline_chest_flys_2 = Image.open('Muscle_Group_Pictures/Incline Chest Flys_2.PNG')
 
-decline_chest_flys_1 = Image.open(path / 'Decline Chest Flys_1.png')
-decline_chest_flys_2 = Image.open(path / 'Decline Chest Flys_2.png')
+decline_chest_flys_1 = Image.open('Muscle_Group_Pictures/Decline Chest Flys_1.PNG')
+decline_chest_flys_2 = Image.open('Muscle_Group_Pictures/Decline Chest Flys_2.PNG')
 
-push_ups_1 = Image.open(path / 'Push-Ups_1.png')
-push_ups_2 = Image.open(path / 'Push-Ups_2.png')
+push_ups_1 = Image.open('Muscle_Group_Pictures/Push-Ups_1.PNG')
+push_ups_2 = Image.open('Muscle_Group_Pictures/Push-Ups_2.PNG')
 
-bench_press_1 = Image.open(path / 'Bench Press_1.png')
-bench_press_2 = Image.open(path / 'Bench Press_2.png')
+bench_press_1 = Image.open('Muscle_Group_Pictures/Bench Press_1.PNG')
+bench_press_2 = Image.open('Muscle_Group_Pictures/Bench Press_2.PNG')
 
-incline_bench_press_1 = Image.open(path / 'Incline Bench Press_1.png')
-incline_bench_press_2 = Image.open(path / 'Incline Bench Press_2.png')
+incline_bench_press_1 = Image.open('Muscle_Group_Pictures/Incline Bench Press_1.PNG')
+incline_bench_press_2 = Image.open('Muscle_Group_Pictures/Incline Bench Press_2.PNG')
 
-decline_bench_press_1 = Image.open(path / 'Decline Bench Press_1.png')
-decline_bench_press_2 = Image.open(path / 'Decline Bench Press_2.png')
+decline_bench_press_1 = Image.open('Muscle_Group_Pictures/Decline Bench Press_1.PNG')
+decline_bench_press_2 = Image.open('Muscle_Group_Pictures/Decline Bench Press_2.PNG')
 
-squeeze_press_1 = Image.open(path / 'Squeeze Press_1.png')
-squeeze_press_2 = Image.open(path / 'Squeeze Press_2.png')
+squeeze_press_1 = Image.open('Muscle_Group_Pictures/Squeeze Press_1.PNG')
+squeeze_press_2 = Image.open('Muscle_Group_Pictures/Squeeze Press_2.PNG')
 
-floor_press_1 = Image.open(path / 'Floor Press_1.png')
-floor_press_2 = Image.open(path / 'Floor Press_2.png')
+floor_press_1 = Image.open('Muscle_Group_Pictures/Floor Press_1.PNG')
+floor_press_2 = Image.open('Muscle_Group_Pictures/Floor Press_2.PNG')
 
-kneeling_chest_pass_1 = Image.open(path / 'Kneeling Chest Pass_1.png')
-kneeling_chest_pass_2 = Image.open(path / 'Kneeling Chest Pass_2.png')
+kneeling_chest_pass_1 = Image.open('Muscle_Group_Pictures/Kneeling Chest Pass_1.PNG')
+kneeling_chest_pass_2 = Image.open('Muscle_Group_Pictures/Kneeling Chest Pass_2.PNG')
 
-farmers_walk_1 = Image.open("Exercise_Library_Streamlit_App/Muscle_Group_Pictures/Farmer's Walk_1.png")
-farmers_walk_2 = Image.open("Exercise_Library_Streamlit_App/Muscle_Group_Pictures/Farmer's Walk_2.png")
+farmers_walk_1 = Image.open("Muscle_Group_Pictures/Farmer's Walk_1.PNG")
+farmers_walk_2 = Image.open("Muscle_Group_Pictures/Farmer's Walk_2.PNG")
 
-wrist_roller_1 = Image.open(path / 'Wrist Roller_1.png')
-wrist_roller_2 = Image.open(path / 'Wrist Roller_2.png')
+wrist_roller_1 = Image.open('Muscle_Group_Pictures/Wrist Roller_1.PNG')
+wrist_roller_2 = Image.open('Muscle_Group_Pictures/Wrist Roller_2.PNG')
 
-standing_hip_extensions_1 = Image.open(path / 'Standing Hip Extensions_1.png')
-standing_hip_extensions_2 = Image.open(path / 'Standing Hip Extensions_2.png')
+standing_hip_extensions_1 = Image.open('Muscle_Group_Pictures/Standing Hip Extensions_1.PNG')
+standing_hip_extensions_2 = Image.open('Muscle_Group_Pictures/Standing Hip Extensions_2.PNG')
 
-donkey_kicks_1 = Image.open(path / 'Donkey Kicks_1.png')
-donkey_kicks_2 = Image.open(path / 'Donkey Kicks_2.png')
+donkey_kicks_1 = Image.open('Muscle_Group_Pictures/Donkey Kicks_1.PNG')
+donkey_kicks_2 = Image.open('Muscle_Group_Pictures/Donkey Kicks_2.PNG')
 
-hip_thrusters_1 = Image.open(path / 'Hip Thrusters_1.png')
-hip_thrusters_2 = Image.open(path / 'Hip Thrusters_2.png')
+hip_thrusters_1 = Image.open('Muscle_Group_Pictures/Hip Thrusters_1.PNG')
+hip_thrusters_2 = Image.open('Muscle_Group_Pictures/Hip Thrusters_2.PNG')
 
-glute_drive_machine_1 = Image.open(path / 'Glute Drive Machine_1.png')
-glute_drive_machine_2 = Image.open(path / 'Glute Drive Machine_2.png')
+glute_drive_machine_1 = Image.open('Muscle_Group_Pictures/Glute Drive Machine_1.PNG')
+glute_drive_machine_2 = Image.open('Muscle_Group_Pictures/Glute Drive Machine_2.PNG')
 
-glute_bridges_1 = Image.open(path / 'Glute Bridges_1.png')
-glute_bridges_2 = Image.open(path / 'Glute Bridges_2.png')
+glute_bridges_1 = Image.open('Muscle_Group_Pictures/Glute Bridges_1.PNG')
+glute_bridges_2 = Image.open('Muscle_Group_Pictures/Glute Bridges_2.PNG')
 
-single_leg_hip_thrusters_1 = Image.open(path / 'Single-Leg Hip Thrusters_1.png')
-single_leg_hip_thrusters_2 = Image.open(path / 'Single-Leg Hip Thrusters_2.png')
+single_leg_hip_thrusters_1 = Image.open('Muscle_Group_Pictures/Single-Leg Hip Thrusters_1.PNG')
+single_leg_hip_thrusters_2 = Image.open('Muscle_Group_Pictures/Single-Leg Hip Thrusters_2.PNG')
 
-single_leg_glute_bridges_1 = Image.open(path / 'Single-Leg Glute Bridges_1.png')
-single_leg_glute_bridges_2 = Image.open(path / 'Single-Leg Glute Bridges_2.png')
+single_leg_glute_bridges_1 = Image.open('Muscle_Group_Pictures/Single-Leg Glute Bridges_1.PNG')
+single_leg_glute_bridges_2 = Image.open('Muscle_Group_Pictures/Single-Leg Glute Bridges_2.PNG')
 
-pull_throughs_1 = Image.open(path / 'Pull Throughs_1.png')
-pull_throughs_2 = Image.open(path / 'Pull Throughs_2.png')
+pull_throughs_1 = Image.open('Muscle_Group_Pictures/Pull Throughs_1.PNG')
+pull_throughs_2 = Image.open('Muscle_Group_Pictures/Pull Throughs_2.PNG')
 
-shin_hops_1 = Image.open(path / 'Shin Hops_1.png')
-shin_hops_2 = Image.open(path / 'Shin Hops_2.png')
+shin_hops_1 = Image.open('Muscle_Group_Pictures/Shin Hops_1.PNG')
+shin_hops_2 = Image.open('Muscle_Group_Pictures/Shin Hops_2.PNG')
 
-glute_ham_raises_1 = Image.open(path / 'Glute Ham Raises_1.png')
-glute_ham_raises_2 = Image.open(path / 'Glute Ham Raises_2.png')
+glute_ham_raises_1 = Image.open('Muscle_Group_Pictures/Glute Ham Raises_1.PNG')
+glute_ham_raises_2 = Image.open('Muscle_Group_Pictures/Glute Ham Raises_2.PNG')
 
-standing_leg_curls_1 = Image.open(path / 'Standing Leg Curls_1.png')
-standing_leg_curls_2 = Image.open(path / 'Standing Leg Curls_2.png')
+standing_leg_curls_1 = Image.open('Muscle_Group_Pictures/Standing Leg Curls_1.PNG')
+standing_leg_curls_2 = Image.open('Muscle_Group_Pictures/Standing Leg Curls_2.PNG')
 
-nordic_ham_raises_1 = Image.open(path / 'Nordic Ham Raises_1.png')
-nordic_ham_raises_2 = Image.open(path / 'Nordic Ham Raises_2.png')
+nordic_ham_raises_1 = Image.open(r'Muscle_Group_Pictures/Nordic Ham Raises_1.PNG')
+nordic_ham_raises_2 = Image.open(r'Muscle_Group_Pictures/Nordic Ham Raises_2.PNG')
 
-kettlebell_swing_1 = Image.open(path / 'Kettlebell Swings_1.png')
-kettlebell_swing_2 = Image.open(path / 'Kettlebell Swings_2.png')
+kettlebell_swing_1 = Image.open('Muscle_Group_Pictures/Kettlebell Swings_1.PNG')
+kettlebell_swing_2 = Image.open('Muscle_Group_Pictures/Kettlebell Swings_2.PNG')
 
-romanian_deadlift_1 = Image.open(path / 'Romanian Dead Lift_1.png')
-romanian_deadlift_2 = Image.open(path / 'Romanian Dead Lift_2.png')
+romanian_deadlift_1 = Image.open('Muscle_Group_Pictures/Romanian Dead Lift_1.PNG')
+romanian_deadlift_2 = Image.open('Muscle_Group_Pictures/Romanian Dead Lift_2.PNG')
 
-single_leg_romainian_deadlift_1 = Image.open(path / 'Single-Leg Romanian Dead Lift_1.png')
-single_leg_romainian_deadlift_2 = Image.open(path / 'Single-Leg Romanian Dead Lift_2.png')
+single_leg_romainian_deadlift_1 = Image.open('Muscle_Group_Pictures/Single-Leg Romanian Dead Lift_1.PNG')
+single_leg_romainian_deadlift_2 = Image.open('Muscle_Group_Pictures/Single-Leg Romanian Dead Lift_2.PNG')
 
-good_mornings_1 = Image.open(path / 'Good Mornings_1.png')
-good_mornings_2 = Image.open(path / 'Good Mornings_2.png')
+good_mornings_1 = Image.open('Muscle_Group_Pictures/Good Mornings_1.PNG')
+good_mornings_2 = Image.open('Muscle_Group_Pictures/Good Mornings_2.PNG')
 
-air_runner_1 = Image.open(path / 'Air Runner_1.png')
-air_runner_2 = Image.open(path / 'Air Runner_2.png')
+air_runner_1 = Image.open('Muscle_Group_Pictures/Air Runner_1.PNG')
+air_runner_2 = Image.open('Muscle_Group_Pictures/Air Runner_2.PNG')
 
-snatch_high_pull_1 = Image.open(path / 'Snatch High Pull_1.png')
-snatch_high_pull_2 = Image.open(path / 'Snatch High Pull_2.png')
+snatch_high_pull_1 = Image.open('Muscle_Group_Pictures/Snatch High Pull_1.PNG')
+snatch_high_pull_2 = Image.open('Muscle_Group_Pictures/Snatch High Pull_2.PNG')
 
-clean_high_pull_1 = Image.open(path / 'Clean High Pull_1.png')
-clean_high_pull_2 = Image.open(path / 'Clean High Pull_2.png')
+clean_high_pull_1 = Image.open('Muscle_Group_Pictures/Clean High Pull_1.PNG')
+clean_high_pull_2 = Image.open('Muscle_Group_Pictures/Clean High Pull_2.PNG')
 
-snatch_pull_1 = Image.open(path / 'Snatch Pull_1.png')
-snatch_pull_2 = Image.open(path / 'Snatch Pull_2.png')
+snatch_pull_1 = Image.open('Muscle_Group_Pictures/Snatch Pull_1.PNG')
+snatch_pull_2 = Image.open('Muscle_Group_Pictures/Snatch Pull_2.PNG')
 
-clean_pull_1 = Image.open(path / 'Clean Pull_1.png')
-clean_pull_2 = Image.open(path / 'Clean Pull_2.png')
+clean_pull_1 = Image.open('Muscle_Group_Pictures/Clean Pull_1.PNG')
+clean_pull_2 = Image.open('Muscle_Group_Pictures/Clean Pull_2.PNG')
 
-lying_leg_curls_floor_1 = Image.open(path / 'Lying Leg Curls (Floor)_1.png')
-lying_leg_curls_floor_2 = Image.open(path / 'Lying Leg Curls (Floor)_2.png')
+lying_leg_curls_floor_1 = Image.open('Muscle_Group_Pictures/Lying Leg Curls (Floor)_1.PNG')
+lying_leg_curls_floor_2 = Image.open('Muscle_Group_Pictures/Lying Leg Curls (Floor)_2.PNG')
 
-lying_leg_curls_machine_1 = Image.open(path / 'Lying Leg Curls (Machine)_1.png')
-lying_leg_curls_machine_2 = Image.open(path / 'Lying Leg Curls (Machine)_2.png')
+lying_leg_curls_machine_1 = Image.open('Muscle_Group_Pictures/Lying Leg Curls (Machine)_1.PNG')
+lying_leg_curls_machine_2 = Image.open('Muscle_Group_Pictures/Lying Leg Curls (Machine)_2.PNG')
 
-banded_marches_1 = Image.open(path / 'Banded Marches_1.png')
-banded_marches_2 = Image.open(path / 'Banded Marches_2.png')
+banded_marches_1 = Image.open('Muscle_Group_Pictures/Banded Marches_1.PNG')
+banded_marches_2 = Image.open('Muscle_Group_Pictures/Banded Marches_2.PNG')
 
-chin_ups_1 = Image.open(path / 'Chin-Ups_1.png')
-chin_ups_2 = Image.open(path / 'Chin-Ups_2.png')
+chin_ups_1 = Image.open('Muscle_Group_Pictures/Chin-Ups_1.PNG')
+chin_ups_2 = Image.open('Muscle_Group_Pictures/Chin-Ups_2.PNG')
 
-chin_ups_assisted_1 = Image.open(path / 'Chin-Ups (Assisted)_1.png')
-chin_ups_assisted_2 = Image.open(path / 'Chin-Ups (Assisted)_2.png')
+chin_ups_assisted_1 = Image.open('Muscle_Group_Pictures/Chin-Ups (Assisted)_1.PNG')
+chin_ups_assisted_2 = Image.open('Muscle_Group_Pictures/Chin-Ups (Assisted)_2.PNG')
 
-pull_ups_1 = Image.open(path / 'Pull-Ups_1.png')
-pull_ups_2 = Image.open(path / 'Pull-Ups_2.png')
+pull_ups_1 = Image.open('Muscle_Group_Pictures/Pull-Ups_1.PNG')
+pull_ups_2 = Image.open('Muscle_Group_Pictures/Pull-Ups_2.PNG')
 
-pull_ups_assisted_1 = Image.open(path / 'Pull-Ups (Assisted)_1.png')
-pull_ups_assisted_2 = Image.open(path / 'Pull-Ups (Assisted)_2.png')
+pull_ups_assisted_1 = Image.open('Muscle_Group_Pictures/Pull-Ups (Assisted)_1.PNG')
+pull_ups_assisted_2 = Image.open('Muscle_Group_Pictures/Pull-Ups (Assisted)_2.PNG')
 
-lat_pulldown_1 = Image.open(path / 'Lat Pulldown_1.png')
-lat_pulldown_2 = Image.open(path / 'Lat Pulldown_2.png')
+lat_pulldown_1 = Image.open('Muscle_Group_Pictures/Lat Pulldown_1.PNG')
+lat_pulldown_2 = Image.open('Muscle_Group_Pictures/Lat Pulldown_2.PNG')
 
-neutral_grip_lat_pulldown_1 = Image.open(path / 'Neutral-Grip Lat Pulldown_1.png')
-neutral_grip_lat_pulldown_2 = Image.open(path / 'Neutral-Grip Lat Pulldown_2.png')
+neutral_grip_lat_pulldown_1 = Image.open(r'Muscle_Group_Pictures/Neutral-Grip Lat Pulldown_1.PNG')
+neutral_grip_lat_pulldown_2 = Image.open(r'Muscle_Group_Pictures/Neutral-Grip Lat Pulldown_2.PNG')
 
-single_arm_lat_pulldown_1 = Image.open(path / 'Single-Arm Lat Pulldown_1.png')
-single_arm_lat_pulldown_2 = Image.open(path / 'Single-Arm Lat Pulldown_2.png')
+single_arm_lat_pulldown_1 = Image.open('Muscle_Group_Pictures/Single-Arm Lat Pulldown_1.PNG')
+single_arm_lat_pulldown_2 = Image.open('Muscle_Group_Pictures/Single-Arm Lat Pulldown_2.PNG')
 
-chin_up_grip_lat_pulldown_1 = Image.open(path / 'Chin-Up Grip Lat Pulldown_1.png')
-chin_up_grip_lat_pulldown_2 = Image.open(path / 'Chin-Up Grip Lat Pulldown_2.png')
+chin_up_grip_lat_pulldown_1 = Image.open('Muscle_Group_Pictures/Chin-Up Grip Lat Pulldown_1.PNG')
+chin_up_grip_lat_pulldown_2 = Image.open('Muscle_Group_Pictures/Chin-Up Grip Lat Pulldown_2.PNG')
 
-pull_overs_1 = Image.open(path / 'Pull-Overs_1.png')
-pull_overs_2 = Image.open(path / 'Pull-Overs_2.png')
+pull_overs_1 = Image.open('Muscle_Group_Pictures/Pull-Overs_1.PNG')
+pull_overs_2 = Image.open('Muscle_Group_Pictures/Pull-Overs_2.PNG')
 
-ski_erg_1 = Image.open(path / 'Ski Erg_1.png')
-ski_erg_2 = Image.open(path / 'Ski Erg_2.png')
+ski_erg_1 = Image.open('Muscle_Group_Pictures/Ski Erg_1.PNG')
+ski_erg_2 = Image.open('Muscle_Group_Pictures/Ski Erg_2.PNG')
 
-straight_arm_lat_pulldown_1 = Image.open(path / 'Straight-Arm Lat Pulldown_1.png')
-straight_arm_lat_pulldown_2 = Image.open(path / 'Straight-Arm Lat Pulldown_2.png')
+straight_arm_lat_pulldown_1 = Image.open('Muscle_Group_Pictures/Straight-Arm Lat Pulldown_1.PNG')
+straight_arm_lat_pulldown_2 = Image.open('Muscle_Group_Pictures/Straight-Arm Lat Pulldown_2.PNG')
 
-back_extensions_1 = Image.open(path / 'Back Extensions_1.png')
-back_extensions_2 = Image.open(path / 'Back Extensions_2.png')
+back_extensions_1 = Image.open('Muscle_Group_Pictures/Back Extensions_1.PNG')
+back_extensions_2 = Image.open('Muscle_Group_Pictures/Back Extensions_2.PNG')
 
-reverse_hypers_1 = Image.open(path / 'Reverse Hypers_1.png')
-reverse_hypers_2 = Image.open(path / 'Reverse Hypers_2.png')
+reverse_hypers_1 = Image.open('Muscle_Group_Pictures/Reverse Hypers_1.PNG')
+reverse_hypers_2 = Image.open('Muscle_Group_Pictures/Reverse Hypers_2.PNG')
 
-ground_to_shoulder_1 = Image.open(path / 'Ground To Shoulder_1.png')
-ground_to_shoulder_2 = Image.open(path / 'Ground To Shoulder_2.png')
+ground_to_shoulder_1 = Image.open('Muscle_Group_Pictures/Ground To Shoulder_1.PNG')
+ground_to_shoulder_2 = Image.open('Muscle_Group_Pictures/Ground To Shoulder_2.PNG')
 
-bird_dog_1 = Image.open(path / 'Bird Dog_1.png')
-bird_dog_2 = Image.open(path / 'Bird Dog_2.png')
+bird_dog_1 = Image.open('Muscle_Group_Pictures/Bird Dog_1.PNG')
+bird_dog_2 = Image.open('Muscle_Group_Pictures/Bird Dog_2.PNG')
 
-dead_lift_1 = Image.open(path / 'Dead Lift_1.png')
-dead_lift_2 = Image.open(path / 'Dead Lift_2.png')
+dead_lift_1 = Image.open('Muscle_Group_Pictures/Dead Lift_1.PNG')
+dead_lift_2 = Image.open('Muscle_Group_Pictures/Dead Lift_2.PNG')
 
-supermans_1 = Image.open(path / 'Supermans_1.png')
-supermans_2 = Image.open(path / 'Supermans_2.png')
+supermans_1 = Image.open('Muscle_Group_Pictures/Supermans_1.PNG')
+supermans_2 = Image.open('Muscle_Group_Pictures/Supermans_2.PNG')
 
-lying_heel_touches_1 = Image.open(path / 'Lying Heel Touches_1.png')
-lying_heel_touches_2 = Image.open(path / 'Lying Heel Touches_2.png')
+lying_heel_touches_1 = Image.open('Muscle_Group_Pictures/Lying Heel Touches_1.PNG')
+lying_heel_touches_2 = Image.open('Muscle_Group_Pictures/Lying Heel Touches_2.PNG')
 
-windshield_wipers_1 = Image.open(path / 'Windshield Wipers_1.png')
-windshield_wipers_2 = Image.open(path / 'Windshield Wipers_2.png')
+windshield_wipers_1 = Image.open('Muscle_Group_Pictures/Windshield Wipers_1.PNG')
+windshield_wipers_2 = Image.open('Muscle_Group_Pictures/Windshield Wipers_2.PNG')
 
-hanging_oblique_knee_raises_1 = Image.open(path / 'Hanging Oblique Knee Raises_1.png')
-hanging_oblique_knee_raises_2 = Image.open(path / 'Hanging Oblique Knee Raises_2.png')
+hanging_oblique_knee_raises_1 = Image.open('Muscle_Group_Pictures/Hanging Oblique Knee Raises_1.PNG')
+hanging_oblique_knee_raises_2 = Image.open('Muscle_Group_Pictures/Hanging Oblique Knee Raises_2.PNG')
 
-pallof_press_holds_1 = Image.open(path / 'Pallof Press Holds_1.png')
-pallof_press_holds_2 = Image.open(path / 'Pallof Press Holds_2.png')
+pallof_press_holds_1 = Image.open('Muscle_Group_Pictures/Pallof Press Holds_1.PNG')
+pallof_press_holds_2 = Image.open('Muscle_Group_Pictures/Pallof Press Holds_2.PNG')
 
-pallof_press_1 = Image.open(path / 'Pallof Press_1.png')
-pallof_press_2 = Image.open(path / 'Pallof Press_2.png')
+pallof_press_1 = Image.open('Muscle_Group_Pictures/Pallof Press_1.PNG')
+pallof_press_2 = Image.open('Muscle_Group_Pictures/Pallof Press_2.PNG')
 
-russian_twists_1 = Image.open(path / 'Russian Twists_1.png')
-russian_twists_2 = Image.open(path / 'Russian Twists_2.png')
+russian_twists_1 = Image.open('Muscle_Group_Pictures/Russian Twists_1.PNG')
+russian_twists_2 = Image.open('Muscle_Group_Pictures/Russian Twists_2.PNG')
 
-hanging_winshield_wipers_1 = Image.open(path / 'Hanging Windshield Wipers_1.png')
-hanging_winshield_wipers_2 = Image.open(path / 'Hanging Windshield Wipers_2.png')
+hanging_winshield_wipers_1 = Image.open('Muscle_Group_Pictures/Hanging Windshield Wipers_1.PNG')
+hanging_winshield_wipers_2 = Image.open('Muscle_Group_Pictures/Hanging Windshield Wipers_2.PNG')
 
-around_the_worlds_1 = Image.open(path / 'Around-The-Worlds_1.png')
-around_the_worlds_2 = Image.open(path / 'Around-The-Worlds_2.png')
+around_the_worlds_1 = Image.open('Muscle_Group_Pictures/Around-The-Worlds_1.PNG')
+around_the_worlds_2 = Image.open('Muscle_Group_Pictures/Around-The-Worlds_2.PNG')
 
-side_bends_1 = Image.open(path / 'Side Bends_1.png')
-side_bends_2 = Image.open(path / 'Side Bends_2.png')
+side_bends_1 = Image.open('Muscle_Group_Pictures/Side Bends_1.PNG')
+side_bends_2 = Image.open('Muscle_Group_Pictures/Side Bends_2.PNG')
 
-single_arm_farmers_walk_1 = Image.open("Exercise_Library_Streamlit_App/Muscle_Group_Pictures/Single-Arm Farmer's Walk_1.png")
-single_arm_farmers_walk_2 = Image.open("Exercise_Library_Streamlit_App/Muscle_Group_Pictures/Single-Arm Farmer's Walk_2.png")
+single_arm_farmers_walk_1 = Image.open("Muscle_Group_Pictures/Single-Arm Farmer's Walk_1.PNG")
+single_arm_farmers_walk_2 = Image.open("Muscle_Group_Pictures/Single-Arm Farmer's Walk_2.PNG")
 
-side_planks_1 = Image.open(path / 'Side Planks_1.png')
-side_planks_2 = Image.open(path / 'Side Planks_2.png')
+side_planks_1 = Image.open('Muscle_Group_Pictures/Side Planks_1.PNG')
+side_planks_2 = Image.open('Muscle_Group_Pictures/Side Planks_2.PNG')
 
-side_plank_pulses_1 = Image.open(path / 'Side Plank Pulses_1.png')
-side_plank_pulses_2 = Image.open(path / 'Side Plank Pulses_2.png')
+side_plank_pulses_1 = Image.open('Muscle_Group_Pictures/Side Plank Pulses_1.PNG')
+side_plank_pulses_2 = Image.open('Muscle_Group_Pictures/Side Plank Pulses_2.PNG')
 
-lateral_ball_throws_1 = Image.open(path / 'Lateral Ball Throws_1.png')
-lateral_ball_throws_2 = Image.open(path / 'Lateral Ball Throws_2.png')
+lateral_ball_throws_1 = Image.open('Muscle_Group_Pictures/Lateral Ball Throws_1.PNG')
+lateral_ball_throws_2 = Image.open('Muscle_Group_Pictures/Lateral Ball Throws_2.PNG')
 
-lateral_ball_slams_1 = Image.open(path / 'Lateral Ball Slams_1.png')
-lateral_ball_slams_2 = Image.open(path / 'Lateral Ball Slams_2.png')
+lateral_ball_slams_1 = Image.open('Muscle_Group_Pictures/Lateral Ball Slams_1.PNG')
+lateral_ball_slams_2 = Image.open('Muscle_Group_Pictures/Lateral Ball Slams_2.PNG')
 
-standing_high_to_low_twist_1 = Image.open(path / 'Standing High-To-Low Twist_1.png')
-standing_high_to_low_twist_2 = Image.open(path / 'Standing High-To-Low Twist_2.png')
+standing_high_to_low_twist_1 = Image.open('Muscle_Group_Pictures/Standing High-To-Low Twist_1.PNG')
+standing_high_to_low_twist_2 = Image.open('Muscle_Group_Pictures/Standing High-To-Low Twist_2.PNG')
 
-shoulder_taps_1 = Image.open(path / 'Shoulder Taps_1.png')
-shoulder_taps_2 = Image.open(path / 'Shoulder Taps_2.png')
+shoulder_taps_1 = Image.open('Muscle_Group_Pictures/Shoulder Taps_1.PNG')
+shoulder_taps_2 = Image.open('Muscle_Group_Pictures/Shoulder Taps_2.PNG')
 
-contact_twists_1 = Image.open(path / 'Contact Twists_1.png')
-contact_twists_2 = Image.open(path / 'Contact Twists_2.png')
+contact_twists_1 = Image.open('Muscle_Group_Pictures/Contact Twists_1.PNG')
+contact_twists_2 = Image.open('Muscle_Group_Pictures/Contact Twists_2.PNG')
 
-box_jumps_1 = Image.open(path / 'Box Jumps_1.png')
-box_jumps_2 = Image.open(path / 'Box Jumps_2.png')
+box_jumps_1 = Image.open('Muscle_Group_Pictures/Box Jumps_1.PNG')
+box_jumps_2 = Image.open('Muscle_Group_Pictures/Box Jumps_2.PNG')
 
-depth_jumps_1 = Image.open(path / 'Depth Jumps_1.png')
-depth_jumps_2 = Image.open(path / 'Depth Jumps_2.png')
+depth_jumps_1 = Image.open('Muscle_Group_Pictures/Depth Jumps_1.PNG')
+depth_jumps_2 = Image.open('Muscle_Group_Pictures/Depth Jumps_2.PNG')
 
-depth_drops_1 = Image.open(path / 'Depth Drops_1.png')
-depth_drops_2 = Image.open(path / 'Depth Drops_2.png')
+depth_drops_1 = Image.open('Muscle_Group_Pictures/Depth Drops_1.PNG')
+depth_drops_2 = Image.open('Muscle_Group_Pictures/Depth Drops_2.PNG')
 
-hurdle_jumps_1 = Image.open(path / 'Hurdle Jumps_1.png')
-hurdle_jumps_2 = Image.open(path / 'Hurdle Jumps_2.png')
+hurdle_jumps_1 = Image.open('Muscle_Group_Pictures/Hurdle Jumps_1.PNG')
+hurdle_jumps_2 = Image.open('Muscle_Group_Pictures/Hurdle Jumps_2.PNG')
 
-broad_jumps_1 = Image.open(path / 'Broad Jumps_1.png')
-broad_jumps_2 = Image.open(path / 'Broad Jumps_2.png')
+broad_jumps_1 = Image.open('Muscle_Group_Pictures/Broad Jumps_1.PNG')
+broad_jumps_2 = Image.open('Muscle_Group_Pictures/Broad Jumps_2.PNG')
 
-explosive_step_ups_1 = Image.open(path / 'Explosive Step-Ups_1.png')
-explosive_step_ups_2 = Image.open(path / 'Explosive Step-Ups_2.png')
+explosive_step_ups_1 = Image.open('Muscle_Group_Pictures/Explosive Step-Ups_1.PNG')
+explosive_step_ups_2 = Image.open('Muscle_Group_Pictures/Explosive Step-Ups_2.PNG')
 
-lateral_hurdle_jumps_1 = Image.open(path / 'Lateral Hurdle Jumps_1.png')
-lateral_hurdle_jumps_2 = Image.open(path / 'Lateral Hurdle Jumps_2.png')
+lateral_hurdle_jumps_1 = Image.open('Muscle_Group_Pictures/Lateral Hurdle Jumps_1.PNG')
+lateral_hurdle_jumps_2 = Image.open('Muscle_Group_Pictures/Lateral Hurdle Jumps_2.PNG')
 
-bike_erg_1 = Image.open(path / 'Bike Erg_1.png')
-bike_erg_2 = Image.open(path / 'Bike Erg_2.png')
+bike_erg_1 = Image.open('Muscle_Group_Pictures/Bike Erg_1.PNG')
+bike_erg_2 = Image.open('Muscle_Group_Pictures/Bike Erg_2.PNG')
 
-stairmaster_1 = Image.open(path / 'Stairmaster_1.png')
-stairmaster_2 = Image.open(path / 'Stairmaster_2.png')
+stairmaster_1 = Image.open('Muscle_Group_Pictures/Stairmaster_1.PNG')
+stairmaster_2 = Image.open('Muscle_Group_Pictures/Stairmaster_2.PNG')
 
-speed_skater_jumps_1 = Image.open(path / 'Speed Skater Jumps_1.png')
-speed_skater_jumps_2 = Image.open(path / 'Speed Skater Jumps_2.png')
+speed_skater_jumps_1 = Image.open('Muscle_Group_Pictures/Speed Skater Jumps_1.PNG')
+speed_skater_jumps_2 = Image.open('Muscle_Group_Pictures/Speed Skater Jumps_2.PNG')
 
-sled_push_1 = Image.open(path / 'Sled Push_1.png')
-sled_push_2 = Image.open(path / 'Sled Push_2.png')
+sled_push_1 = Image.open('Muscle_Group_Pictures/Sled Push_1.PNG')
+sled_push_2 = Image.open('Muscle_Group_Pictures/Sled Push_2.PNG')
 
-plyo_lunges_1 = Image.open(path / 'Plyo Lunges_1.png')
-plyo_lunges_2 = Image.open(path / 'Plyo Lunges_2.png')
+plyo_lunges_1 = Image.open('Muscle_Group_Pictures/Plyo Lunges_1.PNG')
+plyo_lunges_2 = Image.open('Muscle_Group_Pictures/Plyo Lunges_2.PNG')
 
-reverse_sled_drag_1 = Image.open(path / 'Reverse Sled Drag_1.png')
-reverse_sled_drag_2 = Image.open(path / 'Reverse Sled Drag_2.png')
+reverse_sled_drag_1 = Image.open('Muscle_Group_Pictures/Reverse Sled Drag_1.PNG')
+reverse_sled_drag_2 = Image.open('Muscle_Group_Pictures/Reverse Sled Drag_2.PNG')
 
-lateral_lunges_1 = Image.open(path / 'Lateral Lunges_1.png')
-lateral_lunges_2 = Image.open(path / 'Lateral Lunges_2.png')
+lateral_lunges_1 = Image.open('Muscle_Group_Pictures/Lateral Lunges_1.PNG')
+lateral_lunges_2 = Image.open('Muscle_Group_Pictures/Lateral Lunges_2.PNG')
 
-lateral_sled_drag_1 = Image.open(path / 'Lateral Sled Drag_1.png')
-lateral_sled_drag_2 = Image.open(path / 'Lateral Sled Drag_2.png')
+lateral_sled_drag_1 = Image.open('Muscle_Group_Pictures/Lateral Sled Drag_1.PNG')
+lateral_sled_drag_2 = Image.open('Muscle_Group_Pictures/Lateral Sled Drag_2.PNG')
 
-leg_press_1 = Image.open(path / 'Leg Press_1.png')
-leg_press_2 = Image.open(path / 'Leg Press_2.png')
+leg_press_1 = Image.open('Muscle_Group_Pictures/Leg Press_1.PNG')
+leg_press_2 = Image.open('Muscle_Group_Pictures/Leg Press_2.PNG')
 
-single_leg_leg_press_1 = Image.open(path / 'Single-Leg Leg Press_1.png')
-single_leg_leg_press_2 = Image.open(path / 'Single-Leg Leg Press_2.png')
+single_leg_leg_press_1 = Image.open('Muscle_Group_Pictures/Single-Leg Leg Press_1.PNG')
+single_leg_leg_press_2 = Image.open('Muscle_Group_Pictures/Single-Leg Leg Press_2.PNG')
 
-reverse_lunges_1 = Image.open(path / 'Reverse Lunges_1.png')
-reverse_lunges_2 = Image.open(path / 'Reverse Lunges_2.png')
+reverse_lunges_1 = Image.open('Muscle_Group_Pictures/Reverse Lunges_1.PNG')
+reverse_lunges_2 = Image.open('Muscle_Group_Pictures/Reverse Lunges_2.PNG')
 
-box_squats_1 = Image.open(path / 'Box Squats_1.png')
-box_squats_2 = Image.open(path / 'Box Squats_2.png')
+box_squats_1 = Image.open('Muscle_Group_Pictures/Box Squats_1.PNG')
+box_squats_2 = Image.open('Muscle_Group_Pictures/Box Squats_2.PNG')
 
-bulgarian_split_squats_1 = Image.open(path / 'Bulgarian Split Squats_1.png')
-bulgarian_split_squats_2 = Image.open(path / 'Bulgarian Split Squats_2.png')
+bulgarian_split_squats_1 = Image.open('Muscle_Group_Pictures/Bulgarian Split Squats_1.PNG')
+bulgarian_split_squats_2 = Image.open('Muscle_Group_Pictures/Bulgarian Split Squats_2.PNG')
 
-foot_elevated_reverse_lunges_1 = Image.open(path / 'Foot Elevated Reverse Lunges_1.png')
-foot_elevated_reverse_lunges_2 = Image.open(path / 'Foot Elevated Reverse Lunges_2.png')
+foot_elevated_reverse_lunges_1 = Image.open('Muscle_Group_Pictures/Foot Elevated Reverse Lunges_1.PNG')
+foot_elevated_reverse_lunges_2 = Image.open('Muscle_Group_Pictures/Foot Elevated Reverse Lunges_2.PNG')
 
-single_leg_box_squats_1 = Image.open(path / 'Single-Leg Box Squats_1.png')
-single_leg_box_squats_2 = Image.open(path / 'Single-Leg Box Squats_2.png')
+single_leg_box_squats_1 = Image.open('Muscle_Group_Pictures/Single-Leg Box Squats_1.PNG')
+single_leg_box_squats_2 = Image.open('Muscle_Group_Pictures/Single-Leg Box Squats_2.PNG')
 
-pistol_squats_1 = Image.open(path / 'Pistol Squats_1.png')
-pistol_squats_2 = Image.open(path / 'Pistol Squats_2.png')
+pistol_squats_1 = Image.open('Muscle_Group_Pictures/Pistol Squats_1.PNG')
+pistol_squats_2 = Image.open('Muscle_Group_Pictures/Pistol Squats_2.PNG')
 
-walking_lunges_1 = Image.open(path / 'Walking Lunges_1.png')
-walking_lunges_2 = Image.open(path / 'Walking Lunges_2.png')
+walking_lunges_1 = Image.open('Muscle_Group_Pictures/Walking Lunges_1.PNG')
+walking_lunges_2 = Image.open('Muscle_Group_Pictures/Walking Lunges_2.PNG')
 
-step_ups_1 = Image.open(path / 'Step-Ups_1.png')
-step_ups_2 = Image.open(path / 'Step-Ups_2.png')
+step_ups_1 = Image.open('Muscle_Group_Pictures/Step-Ups_1.PNG')
+step_ups_2 = Image.open('Muscle_Group_Pictures/Step-Ups_2.PNG')
 
-belt_squat_1 = Image.open(path / 'Belt Squat_1.png')
-belt_squat_2 = Image.open(path / 'Belt Squat_2.png')
+belt_squat_1 = Image.open('Muscle_Group_Pictures/Belt Squat_1.PNG')
+belt_squat_2 = Image.open('Muscle_Group_Pictures/Belt Squat_2.PNG')
 
-hack_squat_1 = Image.open(path / 'Hack Squat_1.png')
-hack_squat_2 = Image.open(path / 'Hack Squat_2.png')
+hack_squat_1 = Image.open('Muscle_Group_Pictures/Hack Squat_1.PNG')
+hack_squat_2 = Image.open('Muscle_Group_Pictures/Hack Squat_2.PNG')
 
-front_rack_lunges_1 = Image.open(path / 'Front Rack Lunges_1.png')
-front_rack_lunges_2 = Image.open(path / 'Front Rack Lunges_2.png')
+front_rack_lunges_1 = Image.open('Muscle_Group_Pictures/Front Rack Lunges_1.PNG')
+front_rack_lunges_2 = Image.open('Muscle_Group_Pictures/Front Rack Lunges_2.PNG')
 
-front_squats_1 = Image.open(path / 'Front Squats_1.png')
-front_squats_2 = Image.open(path / 'Front Squats_2.png')
+front_squats_1 = Image.open('Muscle_Group_Pictures/Front Squats_1.PNG')
+front_squats_2 = Image.open('Muscle_Group_Pictures/Front Squats_2.PNG')
 
-back_squats_1 = Image.open(path / 'Back Squats_1.png')
-back_squats_2 = Image.open(path / 'Back Squats_2.png')
+back_squats_1 = Image.open('Muscle_Group_Pictures/Back Squats_1.PNG')
+back_squats_2 = Image.open('Muscle_Group_Pictures/Back Squats_2.PNG')
 
-zercher_squats_1 = Image.open(path / 'Zercher Squats_1.png')
-zercher_squats_2 = Image.open(path / 'Zercher Squats_2.png')
+zercher_squats_1 = Image.open('Muscle_Group_Pictures/Zercher Squats_1.PNG')
+zercher_squats_2 = Image.open('Muscle_Group_Pictures/Zercher Squats_2.PNG')
 
-goblet_squats_1 = Image.open(path / 'Goblet Squats_1.png')
-goblet_squats_2 = Image.open(path / 'Goblet Squats_2.png')
+goblet_squats_1 = Image.open('Muscle_Group_Pictures/Goblet Squats_1.PNG')
+goblet_squats_2 = Image.open('Muscle_Group_Pictures/Goblet Squats_2.PNG')
 
-overhead_walking_lunges_1 = Image.open(path / 'Overhead Walking Lunges_1.png')
-overhead_walking_lunges_2 = Image.open(path / 'Overhead Walking Lunges_2.png')
+overhead_walking_lunges_1 = Image.open('Muscle_Group_Pictures/Overhead Walking Lunges_1.PNG')
+overhead_walking_lunges_2 = Image.open('Muscle_Group_Pictures/Overhead Walking Lunges_2.PNG')
 
-landmine_squats_1 = Image.open(path / 'Landmine Squats_1.png')
-landmine_squats_2 = Image.open(path / 'Landmine Squats_2.png')
+landmine_squats_1 = Image.open('Muscle_Group_Pictures/Landmine Squats_1.PNG')
+landmine_squats_2 = Image.open('Muscle_Group_Pictures/Landmine Squats_2.PNG')
 
-sled_drag_1 = Image.open(path / 'Sled Drag_1.png')
-sled_drag_2 = Image.open(path / 'Sled Drag_2.png')
+sled_drag_1 = Image.open('Muscle_Group_Pictures/Sled Drag_1.PNG')
+sled_drag_2 = Image.open('Muscle_Group_Pictures/Sled Drag_2.PNG')
 
-treadmill_1 = Image.open(path / 'Treadmill_1.png')
-treadmill_2 = Image.open(path / 'Treadmill_2.png')
+treadmill_1 = Image.open('Muscle_Group_Pictures/Treadmill_1.PNG')
+treadmill_2 = Image.open('Muscle_Group_Pictures/Treadmill_2.PNG')
 
-assault_air_bike_1 = Image.open(path / 'Assault Air Bike_1.png')
-assault_air_bike_2 = Image.open(path / 'Assault Air Bike_2.png')
+assault_air_bike_1 = Image.open('Muscle_Group_Pictures/Assault Air Bike_1.PNG')
+assault_air_bike_2 = Image.open('Muscle_Group_Pictures/Assault Air Bike_2.PNG')
 
-elliptical_1 = Image.open(path / 'Elliptical_1.png')
-elliptical_2 = Image.open(path / 'Elliptical_2.png')
+elliptical_1 = Image.open('Muscle_Group_Pictures/Elliptical_1.PNG')
+elliptical_2 = Image.open('Muscle_Group_Pictures/Elliptical_2.PNG')
 
-thrusters_1 = Image.open(path / 'Thrusters_1.png')
-thrusters_2 = Image.open(path / 'Thrusters_2.png')
+thrusters_1 = Image.open('Muscle_Group_Pictures/Thrusters_1.PNG')
+thrusters_2 = Image.open('Muscle_Group_Pictures/Thrusters_2.PNG')
 
-snatch_1 = Image.open(path / 'Snatch_1.png')
-snatch_2 = Image.open(path / 'Snatch_2.png')
+snatch_1 = Image.open('Muscle_Group_Pictures/Snatch_1.PNG')
+snatch_2 = Image.open('Muscle_Group_Pictures/Snatch_2.PNG')
 
-hang_snatch_1 = Image.open(path / 'Hang Snatch_1.png')
-hang_snatch_2 = Image.open(path / 'Hang Snatch_2.png')
+hang_snatch_1 = Image.open('Muscle_Group_Pictures/Hang Snatch_1.PNG')
+hang_snatch_2 = Image.open('Muscle_Group_Pictures/Hang Snatch_2.PNG')
 
-clean_1 = Image.open(path / 'Clean_1.png')
-clean_2 = Image.open(path / 'Clean_2.png')
+clean_1 = Image.open('Muscle_Group_Pictures/Clean_1.PNG')
+clean_2 = Image.open('Muscle_Group_Pictures/Clean_2.PNG')
 
-hang_clean_1 = Image.open(path / 'Hang Clean_1.png')
-hang_clean_2 = Image.open(path / 'Hang Clean_2.png')
+hang_clean_1 = Image.open('Muscle_Group_Pictures/Hang Clean_1.PNG')
+hang_clean_2 = Image.open('Muscle_Group_Pictures/Hang Clean_2.PNG')
 
-power_clean_1 = Image.open(path / 'Power Clean_1.png')
-power_clean_2 = Image.open(path / 'Power Clean_2.png')
+power_clean_1 = Image.open('Muscle_Group_Pictures/Power Clean_1.PNG')
+power_clean_2 = Image.open('Muscle_Group_Pictures/Power Clean_2.PNG')
 
-overhead_squat_1 = Image.open(path / 'Overhead Squat_1.png')
-overhead_squat_2 = Image.open(path / 'Overhead Squat_2.png')
+overhead_squat_1 = Image.open('Muscle_Group_Pictures/Overhead Squat_1.PNG')
+overhead_squat_2 = Image.open('Muscle_Group_Pictures/Overhead Squat_2.PNG')
 
-burpees_1 = Image.open(path / 'Burpees_1.png')
-burpees_2 = Image.open(path / 'Burpees_2.png')
+burpees_1 = Image.open('Muscle_Group_Pictures/Burpees_1.PNG')
+burpees_2 = Image.open('Muscle_Group_Pictures/Burpees_2.PNG')
 
-wall_balls_1 = Image.open(path / 'Wall Balls_1.png')
-wall_balls_2 = Image.open(path / 'Wall Balls_2.png')
+wall_balls_1 = Image.open('Muscle_Group_Pictures/Wall Balls_1.PNG')
+wall_balls_2 = Image.open('Muscle_Group_Pictures/Wall Balls_2.PNG')
 
-leg_extensions_1 = Image.open(path / 'Leg Extensions_1.png')
-leg_extensions_2 = Image.open(path / 'Leg Extensions_2.png')
+leg_extensions_1 = Image.open('Muscle_Group_Pictures/Leg Extensions_1.PNG')
+leg_extensions_2 = Image.open('Muscle_Group_Pictures/Leg Extensions_2.PNG')
 
-sissy_squats_1 = Image.open(path / 'Sissy Squats_1.png')
-sissy_squats_2 = Image.open(path / 'Sissy Squats_2.png')
+sissy_squats_1 = Image.open('Muscle_Group_Pictures/Sissy Squats_1.PNG')
+sissy_squats_2 = Image.open('Muscle_Group_Pictures/Sissy Squats_2.PNG')
 
-wall_sit_1 = Image.open(path / 'Wall Sit_1.png')
-wall_sit_2 = Image.open(path / 'Wall Sit_2.png')
+wall_sit_1 = Image.open('Muscle_Group_Pictures/Wall Sit_1.PNG')
+wall_sit_2 = Image.open('Muscle_Group_Pictures/Wall Sit_2.PNG')
 
-kneeling_to_standing_1 = Image.open(path / 'Kneeling-To-Standing_1.png')
-kneeling_to_standing_2 = Image.open(path / 'Kneeling-To-Standing_2.png')
+kneeling_to_standing_1 = Image.open('Muscle_Group_Pictures/Kneeling-To-Standing_1.PNG')
+kneeling_to_standing_2 = Image.open('Muscle_Group_Pictures/Kneeling-To-Standing_2.PNG')
 
-muscle_snatch_1 = Image.open(path / 'Muscle Snatch_1.png')
-muscle_snatch_2 = Image.open(path / 'Muscle Snatch_2.png')
+muscle_snatch_1 = Image.open('Muscle_Group_Pictures/Muscle Snatch_1.PNG')
+muscle_snatch_2 = Image.open('Muscle_Group_Pictures/Muscle Snatch_2.PNG')
 
-devils_press_1 = Image.open("Exercise_Library_Streamlit_App/Muscle_Group_Pictures/Devil's Press_1.png")
-devils_press_2 = Image.open("Exercise_Library_Streamlit_App/Muscle_Group_Pictures/Devil's Press_2.png")
+devils_press_1 = Image.open("Muscle_Group_Pictures/Devil's Press_1.PNG")
+devils_press_2 = Image.open("Muscle_Group_Pictures/Devil's Press_2.PNG")
 
-overhead_ball_throws_1 = Image.open(path / 'Overhead Ball Throws_1.png')
-overhead_ball_throws_2 = Image.open(path / 'Overhead Ball Throws_2.png')
+overhead_ball_throws_1 = Image.open('Muscle_Group_Pictures/Overhead Ball Throws_1.PNG')
+overhead_ball_throws_2 = Image.open('Muscle_Group_Pictures/Overhead Ball Throws_2.PNG')
 
-battle_rope_exercises_1 = Image.open(path / 'Battle Rope Exercises_1.png')
-battle_rope_exercises_2 = Image.open(path / 'Battle Rope Exercises_2.png')
+battle_rope_exercises_1 = Image.open('Muscle_Group_Pictures/Battle Rope Exercises_1.PNG')
+battle_rope_exercises_2 = Image.open('Muscle_Group_Pictures/Battle Rope Exercises_2.PNG')
 
-front_raises_1 = Image.open(path / 'Front Raises_1.png')
-front_raises_2 = Image.open(path / 'Front Raises_2.png')
+front_raises_1 = Image.open('Muscle_Group_Pictures/Front Raises_1.PNG')
+front_raises_2 = Image.open('Muscle_Group_Pictures/Front Raises_2.PNG')
 
-bottoms_up_overhead_press_1 = Image.open(path / 'Bottoms-Up Overhead Press_1.png')
-bottoms_up_overhead_press_2 = Image.open(path / 'Bottoms-Up Overhead Press_2.png')
+bottoms_up_overhead_press_1 = Image.open('Muscle_Group_Pictures/Bottoms-Up Overhead Press_1.PNG')
+bottoms_up_overhead_press_2 = Image.open('Muscle_Group_Pictures/Bottoms-Up Overhead Press_2.PNG')
 
-bottoms_up_bench_press_1 = Image.open(path / 'Bottoms-Up Bench Press_1.png')
-bottoms_up_bench_press_2 = Image.open(path / 'Bottoms-Up Bench Press_2.png')
+bottoms_up_bench_press_1 = Image.open('Muscle_Group_Pictures/Bottoms-Up Bench Press_1.PNG')
+bottoms_up_bench_press_2 = Image.open('Muscle_Group_Pictures/Bottoms-Up Bench Press_2.PNG')
 
-bottoms_up_incline_press_1 = Image.open(path / 'Bottoms-Up Incline Press_1.png')
-bottoms_up_incline_press_2 = Image.open(path / 'Bottoms-Up Incline Press_2.png')
+bottoms_up_incline_press_1 = Image.open('Muscle_Group_Pictures/Bottoms-Up Incline Press_1.PNG')
+bottoms_up_incline_press_2 = Image.open('Muscle_Group_Pictures/Bottoms-Up Incline Press_2.PNG')
 
-single_arm_snatch_1 = Image.open(path / 'Single-Arm Snatch_1.png')
-single_arm_snatch_2 = Image.open(path / 'Single-Arm Snatch_2.png')
+single_arm_snatch_1 = Image.open('Muscle_Group_Pictures/Single-Arm Snatch_1.PNG')
+single_arm_snatch_2 = Image.open('Muscle_Group_Pictures/Single-Arm Snatch_2.PNG')
 
-power_snatch_1 = Image.open(path / 'Power Snatch_1.png')
-power_snatch_2 = Image.open(path / 'Power Snatch_2.png')
+power_snatch_1 = Image.open('Muscle_Group_Pictures/Power Snatch_1.PNG')
+power_snatch_2 = Image.open('Muscle_Group_Pictures/Power Snatch_2.PNG')
 
-muscle_clean_1 = Image.open(path / 'Muscle Clean_1.png')
-muscle_clean_2 = Image.open(path / 'Muscle Clean_2.png')
+muscle_clean_1 = Image.open('Muscle_Group_Pictures/Muscle Clean_1.PNG')
+muscle_clean_2 = Image.open('Muscle_Group_Pictures/Muscle Clean_2.PNG')
 
-clean_and_press_1 = Image.open(path / 'Clean & Press_1.png')
-clean_and_press_2 = Image.open(path / 'Clean & Press_2.png')
+clean_and_press_1 = Image.open('Muscle_Group_Pictures/Clean & Press_1.PNG')
+clean_and_press_2 = Image.open('Muscle_Group_Pictures/Clean & Press_2.PNG')
 
-waiters_walk_1 = Image.open("Exercise_Library_Streamlit_App/Muscle_Group_Pictures/Waiter's Walk_1.png")
-waiters_walk_2 = Image.open("Exercise_Library_Streamlit_App/Muscle_Group_Pictures/Waiter's Walk_2.png")
+waiters_walk_1 = Image.open("Muscle_Group_Pictures/Waiter's Walk_1.PNG")
+waiters_walk_2 = Image.open("Muscle_Group_Pictures/Waiter's Walk_2.PNG")
 
-lateral_raises_1 = Image.open(path / 'Lateral Raises_1.png')
-lateral_raises_2 = Image.open(path / 'Lateral Raises_2.png')
+lateral_raises_1 = Image.open('Muscle_Group_Pictures/Lateral Raises_1.PNG')
+lateral_raises_2 = Image.open('Muscle_Group_Pictures/Lateral Raises_2.PNG')
 
-landmine_lateral_raises_1 = Image.open(path / 'Landmine Lateral Raises_1.png')
-landmine_lateral_raises_2 = Image.open(path / 'Landmine Lateral Raises_2.png')
+landmine_lateral_raises_1 = Image.open('Muscle_Group_Pictures/Landmine Lateral Raises_1.PNG')
+landmine_lateral_raises_2 = Image.open('Muscle_Group_Pictures/Landmine Lateral Raises_2.PNG')
 
-single_arm_overhead_press_1 = Image.open(path / 'Single-Arm Overhead Press_1.png')
-single_arm_overhead_press_2 = Image.open(path / 'Single-Arm Overhead Press_2.png')
+single_arm_overhead_press_1 = Image.open('Muscle_Group_Pictures/Single-Arm Overhead Press_1.PNG')
+single_arm_overhead_press_2 = Image.open('Muscle_Group_Pictures/Single-Arm Overhead Press_2.PNG')
 
-standing_overhead_press_1 = Image.open(path / 'Standing Overhead Press_1.png')
-standing_overhead_press_2 = Image.open(path / 'Standing Overhead Press_2.png')
+standing_overhead_press_1 = Image.open('Muscle_Group_Pictures/Standing Overhead Press_1.PNG')
+standing_overhead_press_2 = Image.open('Muscle_Group_Pictures/Standing Overhead Press_2.PNG')
 
-seated_overhead_press_1 = Image.open(path / 'Seated Overhead Press_1.png')
-seated_overhead_press_2 = Image.open(path / 'Seated Overhead Press_2.png')
+seated_overhead_press_1 = Image.open('Muscle_Group_Pictures/Seated Overhead Press_1.PNG')
+seated_overhead_press_2 = Image.open('Muscle_Group_Pictures/Seated Overhead Press_2.PNG')
 
-single_arm_landmine_press_1 = Image.open(path / 'Single-Arm Landmine Press_1.png')
-single_arm_landmine_press_2 = Image.open(path / 'Single-Arm Landmine Press_2.png')
+single_arm_landmine_press_1 = Image.open('Muscle_Group_Pictures/Single-Arm Landmine Press_1.PNG')
+single_arm_landmine_press_2 = Image.open('Muscle_Group_Pictures/Single-Arm Landmine Press_2.PNG')
 
-arnold_press_1 = Image.open(path / 'Arnold Press_1.png')
-arnold_press_2 = Image.open(path / 'Arnold Press_2.png')
+arnold_press_1 = Image.open('Muscle_Group_Pictures/Arnold Press_1.PNG')
+arnold_press_2 = Image.open('Muscle_Group_Pictures/Arnold Press_2.PNG')
 
-z_press_1 = Image.open(path / 'Z-Press_1.png')
-z_press_2 = Image.open(path / 'Z-Press_2.png')
+z_press_1 = Image.open('Muscle_Group_Pictures/Z-Press_1.PNG')
+z_press_2 = Image.open('Muscle_Group_Pictures/Z-Press_2.PNG')
 
-three_way_reaches_1 = Image.open(path / '3-Way Reaches_1.png')
-three_way_reaches_2 = Image.open(path / '3-Way Reaches_2.png')
+three_way_reaches_1 = Image.open(r'Muscle_Group_Pictures/3-Way Reaches_1.PNG')
+three_way_reaches_2 = Image.open(r'Muscle_Group_Pictures/3-Way Reaches_2.PNG')
 
-lateral_plank_walks_1 = Image.open(path / 'Lateral Plank Walks_1.png')
-lateral_plank_walks_2 = Image.open(path / 'Lateral Plank Walks_2.png')
+lateral_plank_walks_1 = Image.open('Muscle_Group_Pictures/Lateral Plank Walks_1.PNG')
+lateral_plank_walks_2 = Image.open('Muscle_Group_Pictures/Lateral Plank Walks_2.PNG')
 
-i_y_t_1 = Image.open("Exercise_Library_Streamlit_App/Muscle_Group_Pictures/I-Y-T's_1.png")
-i_y_t_2 = Image.open("Exercise_Library_Streamlit_App/Muscle_Group_Pictures/I-Y-T's_2.png")
+i_y_t_1 = Image.open("Muscle_Group_Pictures/I-Y-T's_1.PNG")
+i_y_t_2 = Image.open("Muscle_Group_Pictures/I-Y-T's_2.PNG")
 
-standing_horizontal_press_1 = Image.open(path / 'Standing Horizontal Press_1.png')
-standing_horizontal_press_2 = Image.open(path / 'Standing Horizontal Press_2.png')
+standing_horizontal_press_1 = Image.open('Muscle_Group_Pictures/Standing Horizontal Press_1.PNG')
+standing_horizontal_press_2 = Image.open('Muscle_Group_Pictures/Standing Horizontal Press_2.PNG')
 
-prone_lying_snow_angels_1 = Image.open(path / 'Prone Lying Snow Angels_1.png')
-prone_lying_snow_angels_2 = Image.open(path / 'Prone Lying Snow Angels_2.png')
+prone_lying_snow_angels_1 = Image.open('Muscle_Group_Pictures/Prone Lying Snow Angels_1.PNG')
+prone_lying_snow_angels_2 = Image.open('Muscle_Group_Pictures/Prone Lying Snow Angels_2.PNG')
 
-turkish_get_up_1 = Image.open(path / 'Turkish Get-Up_1.png')
-turkish_get_up_2 = Image.open(path / 'Turkish Get-Up_2.png')
+turkish_get_up_1 = Image.open('Muscle_Group_Pictures/Turkish Get-Up_1.PNG')
+turkish_get_up_2 = Image.open('Muscle_Group_Pictures/Turkish Get-Up_2.PNG')
 
-shoulder_external_rotations_1 = Image.open(path / 'Shoulder External Rotations_1.png')
-shoulder_external_rotations_2 = Image.open(path / 'Shoulder External Rotations_2.png')
+shoulder_external_rotations_1 = Image.open('Muscle_Group_Pictures/Shoulder External Rotations_1.PNG')
+shoulder_external_rotations_2 = Image.open('Muscle_Group_Pictures/Shoulder External Rotations_2.PNG')
 
-shoulder_internal_rotations_1 = Image.open(path / 'Shoulder Internal Rotations_1.png')
-shoulder_internal_rotations_2 = Image.open(path / 'Shoulder Internal Rotations_2.png')
+shoulder_internal_rotations_1 = Image.open('Muscle_Group_Pictures/Shoulder Internal Rotations_1.PNG')
+shoulder_internal_rotations_2 = Image.open('Muscle_Group_Pictures/Shoulder Internal Rotations_2.PNG')
 
-shrugs_1 = Image.open(path / 'Shrugs_1.png')
-shrugs_2 = Image.open(path / 'Shrugs_2.png')
+shrugs_1 = Image.open('Muscle_Group_Pictures/Shrugs_1.PNG')
+shrugs_2 = Image.open('Muscle_Group_Pictures/Shrugs_2.PNG')
 
-upright_rows_1 = Image.open(path / 'Upright Rows_1.png')
-upright_rows_2 = Image.open(path / 'Upright Rows_2.png')
+upright_rows_1 = Image.open(r'Muscle_Group_Pictures/Upright Rows_1.PNG')
+upright_rows_2 = Image.open(r'Muscle_Group_Pictures/Upright Rows_2.PNG')
 
-tricep_kickbacks_1 = Image.open(path / 'Tricep Kickbacks_1.png')
-tricep_kickbacks_2 = Image.open(path / 'Tricep Kickbacks_2.png')
+tricep_kickbacks_1 = Image.open('Muscle_Group_Pictures/Tricep Kickbacks_1.PNG')
+tricep_kickbacks_2 = Image.open('Muscle_Group_Pictures/Tricep Kickbacks_2.PNG')
 
-dips_1 = Image.open(path / 'Dips_1.png')
-dips_2 = Image.open(path / 'Dips_2.png')
+dips_1 = Image.open('Muscle_Group_Pictures/Dips_1.PNG')
+dips_2 = Image.open('Muscle_Group_Pictures/Dips_2.PNG')
 
-dips_assisted_1 = Image.open(path / 'Dips (Assisted)_1.png')
-dips_assisted_2 = Image.open(path / 'Dips (Assisted)_2.png')
+dips_assisted_1 = Image.open('Muscle_Group_Pictures/Dips (Assisted)_1.PNG')
+dips_assisted_2 = Image.open('Muscle_Group_Pictures/Dips (Assisted)_2.PNG')
 
-skull_crushers_1 = Image.open(path / 'Skull Crushers_1.png')
-skull_crushers_2 = Image.open(path / 'Skull Crushers_2.png')
+skull_crushers_1 = Image.open('Muscle_Group_Pictures/Skull Crushers_1.PNG')
+skull_crushers_2 = Image.open('Muscle_Group_Pictures/Skull Crushers_2.PNG')
 
-overhead_tricep_extensions_1 = Image.open(path / 'Overhead Tricep Extensions_1.png')
-overhead_tricep_extensions_2 = Image.open(path / 'Overhead Tricep Extensions_2.png')
+overhead_tricep_extensions_1 = Image.open('Muscle_Group_Pictures/Overhead Tricep Extensions_1.PNG')
+overhead_tricep_extensions_2 = Image.open('Muscle_Group_Pictures/Overhead Tricep Extensions_2.PNG')
 
-tricep_pushdowns_1 = Image.open(path / 'Tricep Pushdowns_1.png')
-tricep_pushdowns_2 = Image.open(path / 'Tricep Pushdowns_2.png')
+tricep_pushdowns_1 = Image.open('Muscle_Group_Pictures/Tricep Pushdowns_1.PNG')
+tricep_pushdowns_2 = Image.open('Muscle_Group_Pictures/Tricep Pushdowns_2.PNG')
 
-seal_rows_1 = Image.open(path / 'Seal Rows_1.png')
-seal_rows_2 = Image.open(path / 'Seal Rows_2.png')
+seal_rows_1 = Image.open('Muscle_Group_Pictures/Seal Rows_1.PNG')
+seal_rows_2 = Image.open('Muscle_Group_Pictures/Seal Rows_2.PNG')
 
-seated_rows_1 = Image.open(path / 'Seated Rows_1.png')
-seated_rows_2 = Image.open(path / 'Seated Rows_2.png')
+seated_rows_1 = Image.open('Muscle_Group_Pictures/Seated Rows_1.PNG')
+seated_rows_2 = Image.open('Muscle_Group_Pictures/Seated Rows_2.PNG')
 
-sled_pulls_1 = Image.open(path / 'Sled Pulls_1.png')
-sled_pulls_2 = Image.open(path / 'Sled Pulls_2.png')
+sled_pulls_1 = Image.open('Muscle_Group_Pictures/Sled Pulls_1.PNG')
+sled_pulls_2 = Image.open('Muscle_Group_Pictures/Sled Pulls_2.PNG')
 
-inverted_row_1 = Image.open(path / 'Inverted Rows_1.png')
-inverted_row_2 = Image.open(path / 'Inverted Rows_2.png')
+inverted_row_1 = Image.open('Muscle_Group_Pictures/Inverted Rows_1.PNG')
+inverted_row_2 = Image.open('Muscle_Group_Pictures/Inverted Rows_2.PNG')
 
-landmine_rows_1 = Image.open(path / 'Landmine Rows_1.png')
-landmine_rows_2 = Image.open(path / 'Landmine Rows_2.png')
+landmine_rows_1 = Image.open('Muscle_Group_Pictures/Landmine Rows_1.PNG')
+landmine_rows_2 = Image.open('Muscle_Group_Pictures/Landmine Rows_2.PNG')
 
-bent_over_rows_1 = Image.open(path / 'Bent Over Rows_1.png')
-bent_over_rows_2 = Image.open(path / 'Bent Over Rows_2.png')
+bent_over_rows_1 = Image.open('Muscle_Group_Pictures/Bent Over Rows_1.PNG')
+bent_over_rows_2 = Image.open('Muscle_Group_Pictures/Bent Over Rows_2.PNG')
 
-single_arm_rows_1 = Image.open(path / 'Single-Arm Rows_1.png')
-single_arm_rows_2 = Image.open(path / 'Single-Arm Rows_2.png')
+single_arm_rows_1 = Image.open('Muscle_Group_Pictures/Single-Arm Rows_1.PNG')
+single_arm_rows_2 = Image.open('Muscle_Group_Pictures/Single-Arm Rows_2.PNG')
 
-rower_1 = Image.open(path / 'Rower_1.png')
-rower_2 = Image.open(path / 'Rower_2.png')
+rower_1 = Image.open('Muscle_Group_Pictures/Rower_1.PNG')
+rower_2 = Image.open('Muscle_Group_Pictures/Rower_2.PNG')
 
-face_pulls_1 = Image.open(path / 'Face Pulls_1.png')
-face_pulls_2 = Image.open(path / 'Face Pulls_2.png')
+face_pulls_1 = Image.open('Muscle_Group_Pictures/Face Pulls_1.PNG')
+face_pulls_2 = Image.open('Muscle_Group_Pictures/Face Pulls_2.PNG')
 
-reverse_flys_1 = Image.open(path / 'Reverse Flys_1.png')
-reverse_flys_2 = Image.open(path / 'Reverse Flys_2.png')
+reverse_flys_1 = Image.open('Muscle_Group_Pictures/Reverse Flys_1.PNG')
+reverse_flys_2 = Image.open('Muscle_Group_Pictures/Reverse Flys_2.PNG')
 
-renegade_rows_1 = Image.open(path / 'Renegade Rows_1.png')
-renegade_rows_2 = Image.open(path / 'Renegade Rows_2.png')
+renegade_rows_1 = Image.open('Muscle_Group_Pictures/Renegade Rows_1.PNG')
+renegade_rows_2 = Image.open('Muscle_Group_Pictures/Renegade Rows_2.PNG')
 
-pull_throughs_1 = Image.open(path / 'Pull Throughs_1.png')
-pull_throughs_2 = Image.open(path / 'Pull Throughs_2.png')
+pull_throughs_1 = Image.open('Muscle_Group_Pictures/Pull Throughs_1.PNG')
+pull_throughs_2 = Image.open('Muscle_Group_Pictures/Pull Throughs_2.PNG')
 
-front_loaded_carry_1 = Image.open(path / 'Front Loaded Carry_1.png')
-front_loaded_carry_2 = Image.open(path / 'Front Loaded Carry_2.png')
+front_loaded_carry_1 = Image.open('Muscle_Group_Pictures/Front Loaded Carry_1.PNG')
+front_loaded_carry_2 = Image.open('Muscle_Group_Pictures/Front Loaded Carry_2.PNG')
 
-push_press_1 = Image.open(path / 'Push Press_1.png')
-push_press_2 = Image.open(path / 'Push Press_2.png')
+push_press_1 = Image.open('Muscle_Group_Pictures/Push Press_1.PNG')
+push_press_2 = Image.open('Muscle_Group_Pictures/Push Press_2.PNG')
 
 muscle_group_pics = [sit_ups_1, sit_ups_2, ghd_sit_ups_1, ghd_sit_ups_2, flutter_kicks_1, flutter_kicks_2,
                      lying_leg_raises_1, lying_leg_raises_2, in_and_outs_1, in_and_outs_2, scissor_kicks_1,
