@@ -4,7 +4,7 @@
 from PIL import Image
 
 
-sit_ups_1 = Image.open('Muscle_Group_Pictures\Sit-Ups_1.png')
+sit_ups_1 = Image.open('Muscle_Group_Pictures/Sit-Ups_1.PNG')
 sit_ups_2 = Image.open(path / 'Sit-Ups_2.png')
 
 ghd_sit_ups_1 = Image.open(path / 'G.H.D. Sit-Ups_1.png')
