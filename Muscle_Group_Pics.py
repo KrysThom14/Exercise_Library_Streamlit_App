@@ -177,8 +177,8 @@ kneeling_chest_pass_2 = Image.open('Muscle_Group_Pictures/Kneeling Chest Pass_2.
 farmers_walk_1 = Image.open("Muscle_Group_Pictures/Farmer's Walk_1.PNG")
 farmers_walk_2 = Image.open("Muscle_Group_Pictures/Farmer's Walk_2.PNG")
 
-wrist_roller_1 = Image.open('Muscle_Group_Pictures/Wrist Roller_1.PNG')
-wrist_roller_2 = Image.open('Muscle_Group_Pictures/Wrist Roller_2.PNG')
+wrist_roller_1 = Image.open('Muscle_Group_Pictures/Wrist Roller_1.png')
+wrist_roller_2 = Image.open('Muscle_Group_Pictures/Wrist Roller_2.png')
 
 standing_hip_extensions_1 = Image.open('Muscle_Group_Pictures/Standing Hip Extensions_1.PNG')
 standing_hip_extensions_2 = Image.open('Muscle_Group_Pictures/Standing Hip Extensions_2.PNG')
