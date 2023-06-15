@@ -4,3 +4,5 @@ This is a very simple web application that personal training clients can use to 
 This is not an exhaustive list, but it is enough to start. More exercises may be added in the future.
 
 "Exercises" left out of the dataset include Balance Exercises & Static/Dynamic Stretches
+
+Link: <https://client-exercise-library.streamlit.app/>
