@@ -4,11 +4,8 @@
 # Import libraries
 import streamlit as st
 import pandas as pd
-import csv
-import base64
 from Muscle_Group_Pics import muscle_group_pics
 from Exercise_Demo_Pics import demo_pics
-from st_aggrid import AgGrid
 
 df = pd.read_csv('C:\Streamlit\Exercise Library - Exercises.csv')
 
