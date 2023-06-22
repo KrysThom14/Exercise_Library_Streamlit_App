@@ -7,7 +7,7 @@ import pandas as pd
 from Muscle_Group_Pics import muscle_group_pics
 from Exercise_Demo_Pics import demo_pics
 
-df = pd.read_csv('C:\Streamlit\Exercise Library - Exercises.csv')
+df = pd.read_csv('Exercise Library - Exercises.csv')
 
 
 equipment = ['Any', 'Atlas Stone', 'Barbell', 'Bodyweight',
